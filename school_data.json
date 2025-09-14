@@ -1,0 +1,6374 @@
+[
+  {
+    "S.N": 1,
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "School": "St. James Sem & Senior High School, Abesim",
+    "Passed %": "100%",
+    "Residency": "Day/Boarding",
+    "Gender": "Male",
+    "email": "st.jamessemshs@ges.gov.gh"
+  },
+  {
+    "S.N": 2,
+    "Region": "Ahafo",
+    "District": "Tano North",
+    "School": "Serwaa Kesse Girls Senior High School",
+    "Passed %": "99%",
+    "Residency": "Day/Boarding",
+    "Gender": "Female",
+    "email": "serwaakessegirlsshs@ges.gov.gh"
+  },
+  {
+    "S.N": 3,
+    "Region": "Eastern",
+    "District": "Denkyembour",
+    "School": "St. Rose's Senior High School",
+    "Passed %": "99%",
+    "Residency": "Day/Boarding",
+    "Gender": "Female",
+    "email": "strosesshs@ges.gov.gh"
+  },
+  {
+    "S.N": 4,
+    "Region": "Central",
+    "District": "Cape Coast Metro",
+    "School": "Wesley Girls Senior High School, Cape Coast",
+    "Passed %": "98%",
+    "Residency": "Day/Boarding",
+    "Gender": "Female",
+    "email": "wesleygirlscapecoastshs@ges.gov.gh"
+  },
+  {
+    "S.N": 5,
+    "Region": "Upper East",
+    "District": "Kasena-Nankani Municipal",
+    "School": "Notre Dame Sem/ Senior High School, Navrongo",
+    "Passed %": "97%",
+    "Residency": "Day/Boarding",
+    "Gender": "Male",
+
+    "email": "notredamesemshs@ges.gov.gh"
+  },
+  {
+    "S.N": 6,
+    "Region": "Central",
+    "District": "Cape Coast Metro",
+    "School": "Holy Child School, Cape Coast",
+    "Passed %": "96%",
+    "Residency": "Day/Boarding",
+    "Gender": "Female",
+
+    "email": "holychildsch@ges.gov.gh"
+  },
+  {
+    "S.N": 7,
+    "Region": "Central",
+    "District": "Cape Coast Metro",
+    "School": "St. Augustine's College, Cape Coast",
+    "Passed %": "95%",
+    "Residency": "Day/Boarding",
+    "Gender": "Male",
+    "email": "st.augustinesshs@ges.gov.gh"
+  },
+  {
+    "S.N": 8,
+    "Region": "Bono",
+    "District": "Jaman North",
+    "School": "Sumaman Senior High School",
+    "Passed %": "95%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 9,
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "School": "Sunyani Senior High School",
+    "Passed %": "95%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 10,
+    "Region": "Bono",
+    "District": "Wenchi Municipal",
+    "School": "Koase Senior High/Tech School",
+    "Passed %": "95%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 11,
+    "Region": "Eastern",
+    "District": "Akwapim South",
+    "School": "Aburi Girls Senior High School",
+    "Passed %": "95%",
+    "Residency": "Day/Boarding",
+    "Gender": "Female",
+    "Email": ""
+  },
+  {
+    "S.N": 12,
+    "Region": "Ashanti",
+    "District": "Kumasi Metro",
+    "School": "St. Louis Senior High School, Kumasi",
+    "Passed %": "94%",
+    "Residency": "Day/Boarding",
+    "Gender": "Female",
+    "Email": ""
+  },
+  {
+    "S.N": 13,
+    "Region": "Eastern",
+    "District": "New Juaben Municipal",
+    "School": "Ghana Senior High School, Koforidua",
+    "Passed %": "94%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 14,
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "School": "Odomaseman Senior High School",
+    "Passed %": "93%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 15,
+    "Region": "Eastern",
+    "District": "New Juaben Municipal",
+    "School": "Oti Boateng Senior High School",
+    "Passed %": "93%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 16,
+    "Region": "Eastern",
+    "District": "New Juaben Municipal",
+    "School": "Pope John Senior High School & Min. Sem., Koforidua",
+    "Passed %": "93%",
+    "Residency": "Day/Boarding",
+    "Gender": "Male",
+    "Email": ""
+  },
+  {
+    "S.N": 17,
+    "Region": "Eastern",
+    "District": "Akwapim North",
+    "School": "Methodist Girls Senior High School, Mamfe",
+    "Passed %": "92%",
+    "Residency": "Day/Boarding",
+    "Gender": "Female",
+    "Email": ""
+  },
+  {
+    "S.N": 18,
+    "Region": "Western",
+    "District": "Sekondi Takoradi Metro",
+    "School": "Archbishop Porter Girls Senior High School",
+    "Passed %": "92%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 19,
+    "Region": "Bono",
+    "District": "Tain",
+    "School": "Menji Senior High School",
+    "Passed %": "92%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 20,
+    "Region": "Western",
+    "District": "Sekondi Takoradi Metro",
+    "School": "Ghana Senior High/Tech School",
+    "Passed %": "92%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 21,
+    "Region": "Bono",
+    "District": "Tain",
+    "School": "Nsawkaw State Senior High School",
+    "Passed %": "91%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 22,
+    "Region": "Greater Accra",
+    "District": "La Nkwantanang Madina Municipal",
+    "School": "Presby Boys Senior High School, Legon",
+    "Passed %": "91%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 23,
+    "Region": "Bono East",
+    "District": "Techiman North",
+    "School": "Krobo Comm.senior High School",
+    "Passed %": "90%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 24,
+    "Region": "Ashanti",
+    "District": "Ejura/Sekyedumase",
+    "School": "Sekyedumase Senior High/Tech School",
+    "Passed %": "89%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 25,
+    "Region": "Central",
+    "District": "Cape Coast Metro",
+    "School": "Mfantsipim Senior High School",
+    "Passed %": "89%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 26,
+    "Region": "Eastern",
+    "District": "East Akim Municipal",
+    "School": "Ofori Panin Senior High School",
+    "Passed %": "89%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 27,
+    "Region": "Central",
+    "District": "Cape Coast Metro",
+    "School": "Ghana National College",
+    "Passed %": "89%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 28,
+    "Region": "Bono",
+    "District": "Berekum-Municipal",
+    "School": "Jinijini Senior High School",
+    "Passed %": "89%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 29,
+    "Region": "Bono",
+    "District": "Jaman South",
+    "School": "Our Lady Of Providence Senior High School",
+    "Passed %": "89%",
+    "Residency": "Day/Boarding",
+    "Gender": "Female",
+    "Email": ""
+  },
+  {
+    "S.N": 30,
+    "Region": "Ashanti",
+    "District": "Sekyere Kumawu",
+    "School": "Bankoman Senior High School",
+    "Passed %": "89%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 31,
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "School": "Techiman Senior High School",
+    "Passed %": "88%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 32,
+    "Region": "Ashanti",
+    "District": "Ahafo Ano North",
+    "School": "Tawheed Senior High School",
+    "Passed %": "88%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 33,
+    "Region": "Ashanti",
+    "District": "Asante Akim Central Municipal",
+    "School": "St. Mary's Girl's Senior High School, Konongo",
+    "Passed %": "88%",
+    "Residency": "Day/Boarding",
+    "Gender": "Female",
+    "Email": ""
+  },
+  {
+    "S.N": 34,
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "School": "St. Peter's Senior High School, Nkwatia",
+    "Passed %": "87%",
+    "Residency": "Day/Boarding",
+    "Gender": "Male",
+    "Email": ""
+  },
+  {
+    "S.N": 35,
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "School": "Ningo Senior High School",
+    "Passed %": "87%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 36,
+    "Region": "Eastern",
+    "District": "New Juaben Municipal",
+    "School": "New Juaben Senior High/Comm School",
+    "Passed %": "87%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 37,
+    "Region": "Ashanti",
+    "District": "Mampong Municipal",
+    "School": "St. Monica's Senior High School, Mampong",
+    "Passed %": "87%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 38,
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "School": "Achimota Senior High School",
+    "Passed %": "87%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 39,
+    "Region": "Bono East",
+    "District": "Techiman North",
+    "School": "Guakro Effah Senior High School",
+    "Passed %": "86%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 40,
+    "Region": "Ahafo",
+    "District": "Asunafo North Municipal",
+    "School": "Mim Senior High School",
+    "Passed %": "86%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 41,
+    "Region": "Ashanti",
+    "District": "Kumasi Metro",
+    "School": "Opoku Ware Senior High School",
+    "Passed %": "86%",
+    "Residency": "Day/Boarding",
+    "Gender": "Male",
+    "Email": ""
+  },
+  {
+    "S.N": 42,
+    "Region": "Ahafo",
+    "District": "Asunafo South",
+    "School": "Sankore Senior High School",
+    "Passed %": "86%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 43,
+    "Region": "Bono",
+    "District": "Berekum-Municipal",
+    "School": "Presby Senior High School, Berekum",
+    "Passed %": "84%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 44,
+    "Region": "Greater Accra",
+    "District": "Okai Koi South",
+    "School": "Accra Academy",
+    "Passed %": "84%",
+    "Residency": "Day/Boarding",
+    "Gender": "Male",
+    "Email": ""
+  },
+  {
+    "S.N": 45,
+    "Region": "Western North",
+    "District": "Bibiani/Anhwiaso/Bekwai",
+    "School": "Sefwi Bekwai Senior High School",
+    "Passed %": "83%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 46,
+    "Region": "Ashanti",
+    "District": "Kumasi Metro",
+    "School": "Prempeh College",
+    "Passed %": "83%",
+    "Residency": "Day/Boarding",
+    "Gender": "Male",
+    "Email": ""
+  },
+  {
+    "S.N": 47,
+    "Region": "Western",
+    "District": "Shama Ahanta East",
+    "School": "Ahantaman Girls' Senior High School",
+    "Passed %": "83%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 48,
+    "Region": "Volta",
+    "District": "North Dayi",
+    "School": "Vakpo Senior High School",
+    "Passed %": "82%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 49,
+    "Region": "Greater Accra",
+    "District": "Ablekuma South",
+    "School": "St. Mary's Senior High School, Korle Gonno",
+    "Passed %": "82%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 50,
+    "Region": "Bono East",
+    "District": "Nkoranza South",
+    "School": "Kwabre Senior High School",
+    "Passed %": "82%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 51,
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "School": "Notre Dame Girls Senior High School, Sunyani",
+    "Passed %": 82,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 52,
+    "Region": "Ahafo",
+    "District": "Tano North",
+    "School": "Boakye Tromo Senior High/Tech School",
+    "Passed %": 82,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 53,
+    "Region": "Ashanti",
+    "District": "Sekyere Central",
+    "School": "Ghana Muslim Mission Senior High School",
+    "Passed %": 82,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 54,
+    "Region": "Central",
+    "District": "Cape Coast Metro",
+    "School": "Adisadel College",
+    "Passed %": 81,
+    "Residency": "Day/Boarding",
+    "Gender": "Male",
+    "Email": ""
+  },
+  {
+    "S.N": 55,
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "School": "Chiraa Senior High School",
+    "Passed %": 81,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 56,
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya",
+    "School": "Nyinahin Cath. Senior High School",
+    "Passed %": 81,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 57,
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "School": "Ofoase Senior High/Tech School",
+    "Passed %": "81%",
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 58,
+    "Region": "Bono",
+    "District": "Tain",
+    "School": "Nkoranman Senior High School",
+    "Passed %": 81,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 59,
+    "Region": "Central",
+    "District": "Abura/Asebu/Kwamankese",
+    "School": "Aggrey Mem. A.m.e.zion Senior High School",
+    "Passed %": 81,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 60,
+    "Region": "Ashanti",
+    "District": "Kumasi Metro",
+    "School": "Yaa Asantewaa Girls Senior High School",
+    "Passed %": 81,
+    "Residency": "Day/Boarding",
+    "Gender": "Female",
+    "Email": ""
+  },
+  {
+    "S.N": 61,
+    "Region": "Bono",
+    "District": "Jaman North",
+    "School": "Diamono Senior High School",
+    "Passed %": 81,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 62,
+    "Region": "Ashanti",
+    "District": "Amansie Central",
+    "School": "Jacobu Senior High/Tech School",
+    "Passed %": 80,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 63,
+    "Region": "Greater Accra",
+    "District": "La Dade-Kotopon Municipal",
+    "School": "St. Thomas Aquinas Senior High School, Cantoments",
+    "Passed %": 80,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 64,
+    "Region": "Ashanti",
+    "District": "Atwima Mponua",
+    "School": "Mpasatia Senior High/Tech School",
+    "Passed %": 78,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 65,
+    "Region": "Volta",
+    "District": "Kpando",
+    "School": "Bishop Herman College",
+    "Passed %": 78,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 66,
+    "Region": "Bono",
+    "District": "Dormaa Central Municipal",
+    "School": "Dormaa Senior High School",
+    "Passed %": 78,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 67,
+    "Region": "Ashanti",
+    "District": "Amansie West",
+    "School": "Manso Adubia Senior High School",
+    "Passed %": 85,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 68,
+    "Region": "Ashanti",
+    "District": "Amansie West",
+    "School": "Manso Nkwanta Senior High School",
+    "Passed %": 80,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 69,
+    "Region": "Ashanti",
+    "District": "Ahafo Ano North",
+    "School": "Ahafo Ano North District Assembly Senior High School",
+    "Passed %": 82,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 70,
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South",
+    "School": "Ahafo Ano South District Assembly Senior High School",
+    "Passed %": 81,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 71,
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South",
+    "School": "Mankranso Senior High School",
+    "Passed %": 85,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 72,
+    "Region": "Ashanti",
+    "District": "Asante Akim Central",
+    "School": "Agogo State Senior High School",
+    "Passed %": 83,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 73,
+    "Region": "Ashanti",
+    "District": "Asante Akim Central",
+    "School": "Konongo Odumase Senior High School",
+    "Passed %": 81,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 74,
+    "Region": "Ashanti",
+    "District": "Asante Akim North",
+    "School": "Agogo Collins Senior High School",
+    "Passed %": 84,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 75,
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "School": "Juaso Senior High School",
+    "Passed %": 82,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 76,
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "School": "Ofoase Kokoben Senior High School",
+    "Passed %": 80,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 77,
+    "Region": "Ashanti",
+    "District": "Atwima Kwanwoma",
+    "School": "Twedie Senior High School",
+    "Passed %": 85,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 78,
+    "Region": "Ashanti",
+    "District": "Atwima Mponua",
+    "School": "Nyinahin Catholic Senior High School",
+    "Passed %": 83,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 79,
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya",
+    "School": "Adanwomase Senior High School",
+    "Passed %": 81,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 80,
+    "Region": "Ashanti",
+    "District": "Bekwai Municipal",
+    "School": "Bekwai Senior High School",
+    "Passed %": 84,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 81,
+    "Region": "Ashanti",
+    "District": "Bekwai Municipal",
+    "School": "Dwamena Akenten Senior High School",
+    "Passed %": 82,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 82,
+    "Region": "Ashanti",
+    "District": "Bekwai Municipal",
+    "School": "Krobea Asante Technical/Vocational School",
+    "Passed %": 80,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 83,
+    "Region": "Ashanti",
+    "District": "Bekwai Municipal",
+    "School": "Mpasatia Senior High Technical School",
+    "Passed %": 85,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 84,
+    "Region": "Ashanti",
+    "District": "Bekwai Municipal",
+    "School": "Sepa Msem Senior High School",
+    "Passed %": 83,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 85,
+    "Region": "Ashanti",
+    "District": "Bekwai Municipal",
+    "School": "T.I. Ahmadiyya Senior High School",
+    "Passed %": 81,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 86,
+    "Region": "Ashanti",
+    "District": "Amansie West",
+    "School": "Manso-Adubia Senior High School",
+    "Passed %": 73.3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 87,
+    "Region": "Ashanti",
+    "District": "Amansie Central",
+    "School": "Amansie Central Senior High School",
+    "Passed %": 85,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 88,
+    "Region": "Ashanti",
+    "District": "Amansie Central",
+    "School": "Jacobu Senior High/Tech School",
+    "Passed %": 80,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 89,
+    "Region": "Ashanti",
+    "District": "Amansie Central",
+    "School": "Amansie Central Senior High School",
+    "Passed %": 85,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 90,
+    "Region": "Ashanti",
+    "District": "Amansie Central",
+    "School": "Jacobu Senior High/Tech School",
+    "Passed %": 80,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 91,
+    "Region": "Ashanti",
+    "District": "Amansie West",
+    "School": "Manso Adubia Senior High School",
+    "Passed %": 82,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 92,
+    "Region": "Ashanti",
+    "District": "Amansie West",
+    "School": "Manso Nkwanta Senior High School",
+    "Passed %": 80,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 93,
+    "Region": "Ashanti",
+    "District": "Amansie West",
+    "School": "Manso Adubia Senior High School",
+    "Passed %": 82,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 94,
+    "Region": "Ashanti",
+    "District": "Amansie West",
+    "School": "Manso Nkwanta Senior High School",
+    "Passed %": 80,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 95,
+    "Region": "Ashanti",
+    "District": "Ahafo Ano North",
+    "School": "Ahafo Ano North Senior High School",
+    "Passed %": 85,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 96,
+    "Region": "Ashanti",
+    "District": "Ahafo Ano North",
+    "School": "Tepa Senior High School",
+    "Passed %": 82,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 97,
+    "Region": "Ashanti",
+    "District": "Ahafo Ano North",
+    "School": "Ahafo Ano North Senior High School",
+    "Passed %": 85,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 98,
+    "Region": "Ashanti",
+    "District": "Ahafo Ano North",
+    "School": "Tepa Senior High School",
+    "Passed %": 82,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 99,
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South",
+    "School": "Ahafo Ano South Senior High School",
+    "Passed %": 80,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 100,
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South",
+    "School": "Mankranso Senior High School",
+    "Passed %": 78,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 101,
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South",
+    "School": "Ahafo Ano South Senior High School",
+    "Passed %": 80,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 102,
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South",
+    "School": "Mankranso Senior High School",
+    "Passed %": 78,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 103,
+    "Region": "Ashanti",
+    "District": "Atwima Mponua",
+    "School": "Toase Senior High School",
+    "Passed %": 85,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 104,
+    "Region": "Ashanti",
+    "District": "Atwima Mponua",
+    "School": "Nyinahin Catholic Senior High School",
+    "Passed %": 82,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 105,
+    "Region": "Ashanti",
+    "District": "Atwima Mponua",
+    "School": "Toase Senior High School",
+    "Passed %": 85,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 106,
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "School": "Kaleo Senior High School",
+    "Passed %": 76.4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 107,
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "School": "Nadowli Senior High School",
+    "Passed %": 71.1,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 108,
+    "Region": "Ashanti",
+    "District": "Sekyere East",
+    "School": "T. I. Ahmadiyya Girl's Senior High School, Asokore",
+    "Passed %": 63,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 109,
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "School": "Accra Girls Senior High School",
+    "Passed %": 62,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 110,
+    "Region": "Ahafo",
+    "District": "Tano North Municipal",
+    "School": "Yamfo Anglican Senior High School",
+    "Passed %": 62,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 111,
+    "Region": "Eastern",
+    "District": "Birim Central Municipal",
+    "School": "Atweaman Senior High School",
+    "Passed %": 62,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 112,
+    "Region": "Ashanti",
+    "District": "Adansi North",
+    "School": "Dompoase Senior High School",
+    "Passed %": 61,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 113,
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "School": "Sacred Heart Senior High School, Nsoatre",
+    "Passed %": 61,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 114,
+    "Region": "Bono East",
+    "District": "Pru Yeji",
+    "School": "Pru Yeji Senior High/Tech School",
+    "Passed %": 60,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 115,
+    "Region": "Ashanti",
+    "District": "Asokore Mampong Municipal",
+    "School": "Kumasi Academy",
+    "Passed %": 60,
+    "Residency": "Day/Boarding",
+    "Gender": "Male",
+    "Email": ""
+  },
+  {
+    "S.N": 116,
+    "Region": "Bono",
+    "District": "Jaman North",
+    "School": "Nafana Senior High School",
+    "Passed %": 59,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 117,
+    "Region": "Ashanti",
+    "District": "Kwabre East",
+    "School": "Antoa Senior High School",
+    "Passed %": 59,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 118,
+    "Region": "Ashanti",
+    "District": "Ejisu Juaben Municipal",
+    "School": "Ejisu Senior High/Tech School",
+    "Passed %": 59,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 119,
+    "Region": "Eastern",
+    "District": "Birim Central Municipal",
+    "School": "Oda Senior High School",
+    "Passed %": 59,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 120,
+    "Region": "Ashanti",
+    "District": "Afigya-Kwabere",
+    "School": "Aduman Senior High School",
+    "Passed %": 58,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 121,
+    "Region": "Bono",
+    "District": "Jaman South",
+    "School": "Drobo Senior High School",
+    "Passed %": 58,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 122,
+    "Region": "Bono",
+    "District": "Dormaa East",
+    "School": "Wamanafo Senior High/Tech School",
+    "Passed %": 57,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 123,
+    "Region": "Central",
+    "District": "Cape Coast Metro",
+    "School": "University Practice Senior High School",
+    "Passed %": 57,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 124,
+    "Region": "Greater Accra",
+    "District": "Tema Metro",
+    "School": "Tema Senior High School",
+    "Passed %": 57,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 125,
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "School": "Bueman Senior High School",
+    "Passed %": 56,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 126,
+    "Region": "Ashanti",
+    "District": "Kumasi Metro",
+    "School": "T. I. Ahmadiyya Senior High School, Kumasi",
+    "Passed %": 56,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 127,
+    "Region": "Ashanti",
+    "District": "Kumasi Metro",
+    "School": "Anglican Senior High School, Kumasi",
+    "Passed %": 56,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 128,
+    "Region": "Ahafo",
+    "District": "Tano South",
+    "School": "Derma Comm. Day Senior High School",
+    "Passed %": 55,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 129,
+    "Region": "Bono",
+    "District": "Dormaa West",
+    "School": "Nkrankwanta Comm Senior High School",
+    "Passed %": 48,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 130,
+    "Region": "Central",
+    "District": "Upper Denkyira East Municipal",
+    "School": "Boa-Amponsem Senior High School",
+    "Passed %": 54,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 131,
+    "Region": "Western",
+    "District": "Sekondi Takoradi Metro",
+    "School": "Fijai Senior High School",
+    "Passed %": 54,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 132,
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya",
+    "School": "Osei Tutu Senior High School, Akropong",
+    "Passed %": 54,
+    "Residency": "Day/Boarding",
+    "Gender": "Male",
+    "Email": ""
+  },
+  {
+    "S.N": 133,
+    "Region": "Bono",
+    "District": "Tain",
+    "School": "Badu Senior High/Tech School",
+    "Passed %": 54,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 134,
+    "Region": "Eastern",
+    "District": "Lower Manya Krobo",
+    "School": "Krobo Girls Senior High School",
+    "Passed %": 53,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 135,
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "School": "Abetifi Presby Senior High School",
+    "Passed %": 53,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 136,
+    "Region": "Ashanti",
+    "District": "Kumasi Metro",
+    "School": "Asanteman Senior High School",
+    "Passed %": 53,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 137,
+    "Region": "Central",
+    "District": "Assin South",
+    "School": "Adankwaman Senior High School",
+    "Passed %": 53,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 138,
+    "Region": "Eastern",
+    "District": "Kwahu West Municipal",
+    "School": "Fodoa Comm. Senior High School",
+    "Passed %": 52,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 139,
+    "Region": "Northern",
+    "District": "Tamale Metro",
+    "School": "St. Charles Senior High School, Tamale",
+    "Passed %": 52,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 140,
+    "Region": "Western North",
+    "District": "Sefwi Wiawso",
+    "School": "Akontombra Senior High School",
+    "Passed %": 52,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 141,
+    "Region": "Eastern",
+    "District": "Suhum Municipal",
+    "School": "Presby Senior High School, Suhum",
+    "Passed %": 52,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 142,
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "School": "Beposo Senior High School",
+    "Passed %": 52,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 143,
+    "Region": "Volta",
+    "District": "Hohoe Municipal",
+    "School": "Akpafu Senior High/Tech School",
+    "Passed %": 52,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 144,
+    "Region": "Ashanti",
+    "District": "Atwima Kwanwoma",
+    "School": "Afua Kobi Ampem Girls' Senior High School",
+    "Passed %": 52,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 145,
+    "Region": "Central",
+    "District": "Effutu Municipal",
+    "School": "Winneba Senior High School",
+    "Passed %": 52,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 146,
+    "Region": "Ahafo",
+    "District": "Tano South",
+    "School": "Samuel Otu Presby Senior High School",
+    "Passed %": 52,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 147,
+    "Region": "Greater Accra",
+    "District": "Ga Central",
+    "School": "Odorgonno Senior High School",
+    "Passed %": 51,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 148,
+    "Region": "Greater Accra",
+    "District": "La Dade-Kotopon Municipal",
+    "School": "Forces Senior High/Tech School, Burma Camp",
+    "Passed %": 51,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 149,
+    "Region": "Ashanti",
+    "District": "Kumasi Metro",
+    "School": "Armed Forces Senior High/Tech School, Kumasi",
+    "Passed %": 51,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 150,
+    "Region": "Ashanti",
+    "District": "Sekyere East",
+    "School": "Effiduase Senior High/Comm School",
+    "Passed %": 51,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 151,
+    "Region": "Western North",
+    "District": "Bia West",
+    "School": "Adjoafua Comm. Senior High School",
+    "Passed %": 50,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 152,
+    "Region": "Central",
+    "District": "Ekumfi",
+    "School": "Akyin Senior High School",
+    "Passed %": 50,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 153,
+    "Region": "Eastern",
+    "District": "East Akim Municipal",
+    "School": "Saviour Senior High School, Osiem",
+    "Passed %": 50,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 154,
+    "Region": "Ashanti",
+    "District": "Mampong Municipal",
+    "School": "Opoku Agyeman Senior High/Tech School",
+    "Passed %": 49,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 155,
+    "Region": "Central",
+    "District": "Ekumfi",
+    "School": "J.e.a. Mills Senior High School",
+    "Passed %": 48,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 156,
+    "Region": "Western North",
+    "District": "Sefwi Wiawso",
+    "School": "Asawinso Senior High School",
+    "Passed %": 48,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 157,
+    "Region": "Central",
+    "District": "Assin North Municipal",
+    "School": "Gyaase Community Senior High School",
+    "Passed %": 48,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 158,
+    "Region": "Bono East",
+    "District": "Atebubu-Amantin",
+    "School": "Amanten Senior High School",
+    "Passed %": 48,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 159,
+    "Region": "Ashanti",
+    "District": "Sekyere Kumawu",
+    "School": "Dadease Agric Senior High School",
+    "Passed %": 48,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 160,
+    "Region": "Volta",
+    "District": "Ho Municipal",
+    "School": "E.p.c. Mawuko Girls Senior High School",
+    "Passed %": 48,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 161,
+    "Region": "Volta",
+    "District": "Keta",
+    "School": "Keta Senior High/Tech School",
+    "Passed %": 48,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 162,
+    "Region": "Ashanti",
+    "District": "Kwabre East",
+    "School": "Adventist Girls Senior High School, Ntonso",
+    "Passed %": 48,
+    "Residency": "Day/Boarding",
+    "Gender": "Female",
+    "Email": ""
+  },
+  {
+    "S.N": 163,
+    "Region": "Ashanti",
+    "District": "Asante Akim Central Municipal",
+    "School": "Konongo Odumase Senior High School",
+    "Passed %": 48,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 164,
+    "Region": "Western North",
+    "District": "Sefwi Wiawso",
+    "School": "St. Joseph Senior High, Sefwi Wiawso",
+    "Passed %": 47,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 165,
+    "Region": "Western North",
+    "District": "Sefwi Wiawso",
+    "School": "Sefwi-Wiawso Senior High School",
+    "Passed %": 47,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 166,
+    "Region": "Bono",
+    "District": "Berekum Municipal",
+    "School": "St. Augustine Senior High School, Nsapor-Berekum",
+    "Passed %": 47,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 167,
+    "Region": "Northern",
+    "District": "Tamale Metro",
+    "School": "St. Charles Senior High School, Tamale",
+    "Passed %": 46,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 168,
+    "Region": "Eastern",
+    "District": "New Juaben Municipal",
+    "School": "Oyoko Methodist Senior High School",
+    "Passed %": 46,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 169,
+    "Region": "Eastern",
+    "District": "Nsawam Adoagyiri",
+    "School": "St. Martin's Senior High School, Nsawam",
+    "Passed %": 46,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 170,
+    "Region": "Ashanti",
+    "District": "Adansi North",
+    "School": "Bodwesango Senior High School",
+    "Passed %": 45,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 171,
+    "Region": "Ashanti",
+    "District": "Bekwai Municipal",
+    "School": "Oppong Mem. Senior High School",
+    "Passed %": 45,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 172,
+    "Region": "Eastern",
+    "District": "New Juaben Municipal",
+    "School": "Pentecost Senior High School, Koforidua",
+    "Passed %": 45,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 173,
+    "Region": "Bono East",
+    "District": "Sene West",
+    "School": "Kwame Danso Senior High/Tech School",
+    "Passed %": 44,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 174,
+    "Region": "Western",
+    "District": "Sekondi Takoradi Metro",
+    "School": "Sekondi College",
+    "Passed %": 44,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 175,
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "School": "St. Francis Girls Senior High School, Jirapa",
+    "Passed %": 44,
+    "Residency": "Day/Boarding",
+    "Gender": "Female",
+    "Email": ""
+  },
+  {
+    "S.N": 176,
+    "Region": "Western North",
+    "District": "Bibiani/Anhwiaso/Bekwai",
+    "School": "Queens Girls' Senior High School, Sefwi Awhiaso",
+    "Passed %": 44,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 177,
+    "Region": "Eastern",
+    "District": "Atiwa",
+    "School": "Kwabeng Anglican Senior High/Tech School",
+    "Passed %": 43,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 178,
+    "Region": "Ashanti",
+    "District": "Asante Akim North",
+    "School": "Owerriman Senior High School",
+    "Passed %": 43,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 179,
+    "Region": "Eastern",
+    "District": "Upper West Akim",
+    "School": "Adeiso Presby Senior High School",
+    "Passed %": 43,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 180,
+    "Region": "Central",
+    "District": "Agona East Municipal",
+    "School": "Nsaba Presby Senior High School",
+    "Passed %": 43,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 181,
+    "Region": "Eastern",
+    "District": "East Akim Municipal",
+    "School": "W.b.m. Zion Senior High School, Old Tafo",
+    "Passed %": 43,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 182,
+    "Region": "Ashanti",
+    "District": "Adansi North",
+    "School": "Asare Bediako Senior High School",
+    "Passed %": 43,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 183,
+    "Region": "Ashanti",
+    "District": "Offinso Municipal",
+    "School": "St. Jerome Senior High School, Abofour",
+    "Passed %": 42,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 184,
+    "Region": "Eastern",
+    "District": "Kwahu West Municipal",
+    "School": "Nkawkaw Senior High School",
+    "Passed %": 42,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 185,
+    "Region": "Western",
+    "District": "Prestea Huni Valley",
+    "School": "St. Augustine's Senior High School, Bogoso",
+    "Passed %": 42,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 186,
+    "Region": "Central",
+    "District": "Ekumfi",
+    "School": "J.e.a. Mills Senior High School",
+    "Passed %": 42,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 187,
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South",
+    "School": "Mankranso Senior High School",
+    "Passed %": 42,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 188,
+    "Region": "Bono",
+    "District": "Wenchi Municipal",
+    "School": "Istiquaama Senior High School",
+    "Passed %": 42,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 189,
+    "Region": "Ashanti",
+    "District": "Kumasi Metro",
+    "School": "Adventist Senior High School, Kumasi",
+    "Passed %": 42,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 190,
+    "Region": "Ashanti",
+    "District": "Kumasi Metro",
+    "School": "Kumasi Girls Senior High School",
+    "Passed %": 41,
+    "Residency": "Day/Boarding",
+    "Gender": "Female",
+    "Email": ""
+  },
+  {
+    "S.N": 191,
+    "Region": "Volta",
+    "District": "Afadzato South",
+    "School": "Agate Comm. Senior High School",
+    "Passed %": 41,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 192,
+    "Region": "Central",
+    "District": "Awutu/Senya",
+    "School": "Awutu Winton Senior High School",
+    "Passed %": 41,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 193,
+    "Region": "Central",
+    "District": "Twifo Ati-Morkwa",
+    "School": "Twifo Praso Senior High School",
+    "Passed %": 41,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 194,
+    "Region": "Eastern",
+    "District": "East Akim Municipal",
+    "School": "Abuakwa State College",
+    "Passed %": 40,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 195,
+    "Region": "Eastern",
+    "District": "New Juaben Municipal",
+    "School": "S.d.a Senior High School, Koforidua",
+    "Passed %": 40,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 196,
+    "Region": "Central",
+    "District": "Komenda/Edina/Eguafo/Abirem Municipal",
+    "School": "Edinaman Senior High School",
+    "Passed %": 40,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 197,
+    "Region": "Ashanti",
+    "District": "Sekyere Kumawu",
+    "School": "Tweapease Senior High School",
+    "Passed %": 40,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 198,
+    "Region": "Bono",
+    "District": "Berekum-Municipal",
+    "School": "Berekum Senior High School",
+    "Passed %": 40,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 199,
+    "Region": "Ahafo",
+    "District": "Asutifi North",
+    "School": "Ola Girls Senior High School, Kenyasi",
+    "Passed %": 39,
+    "Residency": "Day/Boarding",
+    "Gender": "Female",
+    "Email": ""
+  },
+  {
+    "S.N": 200,
+    "Region": "Volta",
+    "District": "Hohoe Municipal",
+    "School": "St. Mary's Sem.& Senior High School, Lolobi",
+    "Passed %": 39,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 201,
+    "Region": "Western North",
+    "District": "Bibiani-Anhwiaso-Bekwai",
+    "School": "Bibiani Senior High Technical School",
+    "Passed %": 64.9,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 202,
+    "Region": "Western North",
+    "District": "Bodi",
+    "School": "Bodi Senior High Technical School",
+    "Passed %": 61.3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 203,
+    "Region": "Western North",
+    "District": "Juaboso",
+    "School": "Juaboso Senior High Technical School",
+    "Passed %": 63.2,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 204,
+    "Region": "Western North",
+    "District": "Sefwi Akontombra",
+    "School": "Sefwi Akontombra Senior High Technical School",
+    "Passed %": 65.1,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 205,
+    "Region": "Western North",
+    "District": "Sefwi Wiawso",
+    "School": "Sefwi Wiawso Senior High Technical School",
+    "Passed %": 66.3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 206,
+    "Region": "Bono East",
+    "District": "Atebubu-Amantin",
+    "School": "Atebubu Senior High School",
+    "Passed %": 62.2,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 207,
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "School": "Kintampo Senior High School",
+    "Passed %": 63.5,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 208,
+    "Region": "Bono East",
+    "District": "Kintampo South",
+    "School": "Jema Senior High Technical School",
+    "Passed %": 61.9,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 209,
+    "Region": "Bono East",
+    "District": "Nkoranza North",
+    "School": "Nkoranza Senior High Technical School",
+    "Passed %": 64.2,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 210,
+    "Region": "Bono East",
+    "District": "Nkoranza South",
+    "School": "Nkoranza Senior High Technical School",
+    "Passed %": 63.1,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 211,
+    "Region": "Bono East",
+    "District": "Pru East",
+    "School": "Yeji Senior High Technical School",
+    "Passed %": 62.5,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 212,
+    "Region": "Bono East",
+    "District": "Pru West",
+    "School": "Prang Senior High School",
+    "Passed %": 61.8,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 213,
+    "Region": "Savannah",
+    "District": "Bole",
+    "School": "Bole Senior High School",
+    "Passed %": 63.3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 214,
+    "Region": "Savannah",
+    "District": "Central Gonja",
+    "School": "Buipe Senior High Technical School",
+    "Passed %": 62.1,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 215,
+    "Region": "Savannah",
+    "District": "East Gonja",
+    "School": "Kpandai Senior High Technical School",
+    "Passed %": 61.5,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 216,
+    "Region": "Savannah",
+    "District": "North East Gonja",
+    "School": "Kpalbe Senior High Technical School",
+    "Passed %": 62.8,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 217,
+    "Region": "Savannah",
+    "District": "Sawla-Tuna-Kalba",
+    "School": "Sawla Senior High Technical School",
+    "Passed %": 63.9,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 218,
+    "Region": "Savannah",
+    "District": "West Gonja",
+    "School": "Damongo Senior High School",
+    "Passed %": 64.5,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 219,
+    "Region": "Northern",
+    "District": "Sagnarigu",
+    "School": "Sagnarigu Senior High School",
+    "Passed %": 34.5,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 220,
+    "Region": "Northern",
+    "District": "Sagnarigu",
+    "School": "Ghana Senior High School",
+    "Passed %": 44.3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 221,
+    "Region": "Northern",
+    "District": "Tamale",
+    "School": "Tamale Senior High School",
+    "Passed %": 46.2,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 222,
+    "Region": "Northern",
+    "District": "Tamale",
+    "School": "Business Senior High School",
+    "Passed %": 48.1,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 223,
+    "Region": "Northern",
+    "District": "West Gonja",
+    "School": "Damongo Senior High School",
+    "Passed %": 40.6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 224,
+    "Region": "Northern",
+    "District": "West Gonja",
+    "School": "Bole Senior High School",
+    "Passed %": 36.4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 225,
+    "Region": "Northern",
+    "District": "Central Gonja",
+    "School": "Buipe Senior High School",
+    "Passed %": 38.5,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 226,
+    "Region": "Northern",
+    "District": "Central Gonja",
+    "School": "Kpandai Senior High School",
+    "Passed %": 42.1,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 227,
+    "Region": "Northern",
+    "District": "East Gonja",
+    "School": "Salaga Senior High School",
+    "Passed %": 45.6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 228,
+    "Region": "Northern",
+    "District": "East Gonja",
+    "School": "Kpalbe Senior High School",
+    "Passed %": 39.2,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 229,
+    "Region": "Upper East",
+    "District": "Bawku Municipal",
+    "School": "Bawku Senior High School",
+    "Passed %": 41.9,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 230,
+    "Region": "Upper East",
+    "District": "Bawku Municipal",
+    "School": "Zebilla Senior High School",
+    "Passed %": 35.7,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 231,
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "School": "Ulenga Senior High School",
+    "Passed %": 33.5,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 232,
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "School": "Bolgatanga Senior High School",
+    "Passed %": 43.8,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 233,
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "School": "Zuarungu Senior High School",
+    "Passed %": 39.5,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 234,
+    "Region": "Upper East",
+    "District": "Bongo",
+    "School": "Bongo Senior High School",
+    "Passed %": 42.2,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 235,
+    "Region": "Upper East",
+    "District": "Bongo",
+    "School": "Adukunkpe Senior High School",
+    "Passed %": 36.1,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 236,
+    "Region": "Upper East",
+    "District": "Kassena Nankana Municipal",
+    "School": "Navrongo Senior High School",
+    "Passed %": 45.1,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 237,
+    "Region": "Upper East",
+    "District": "Kassena Nankana Municipal",
+    "School": "Chiana Senior High School",
+    "Passed %": 40.3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 238,
+    "Region": "Upper East",
+    "District": "Kassena Nankana West",
+    "School": "Paga Senior High School",
+    "Passed %": 38.5,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 239,
+    "Region": "Western North",
+    "District": "Bibiani-Anhwiaso-Bekwai",
+    "School": "Bibiani Senior High Technical School",
+    "Passed %": 81,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 240,
+    "Region": "Western North",
+    "District": "Sefwi Wiawso",
+    "School": "Wiawso College of Education",
+    "Passed %": 74,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 241,
+    "Region": "Western North",
+    "District": "Sefwi Wiawso",
+    "School": "Sefwi Wiawso Senior High Technical School",
+    "Passed %": 83,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 242,
+    "Region": "Western North",
+    "District": "Aowin",
+    "School": "Aowin Senior High School",
+    "Passed %": 76,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 243,
+    "Region": "Western North",
+    "District": "Aowin",
+    "School": "Bodi Senior High Technical School",
+    "Passed %": 81,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 244,
+    "Region": "Western North",
+    "District": "Juaboso",
+    "School": "Juaboso Senior High School",
+    "Passed %": 77,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 245,
+    "Region": "Western North",
+    "District": "Juaboso",
+    "School": "Bia Senior High Technical School",
+    "Passed %": 82,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 246,
+    "Region": "Western North",
+    "District": "Bia West",
+    "School": "Adjoafua Senior High Technical School",
+    "Passed %": 78,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 247,
+    "Region": "Western North",
+    "District": "Bia West",
+    "School": "Essam Senior High Technical School",
+    "Passed %": 80,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 248,
+    "Region": "Western North",
+    "District": "Bia East",
+    "School": "Debiso Senior High Technical School",
+    "Passed %": 75,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 249,
+    "Region": "Western North",
+    "District": "Bia East",
+    "School": "Adabanka Senior High Technical School",
+    "Passed %": 79,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 250,
+    "Region": "Western North",
+    "District": "Bia East",
+    "School": "Nana Kumi Senior High Technical School",
+    "Passed %": 81,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 251,
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "School": "Nadowli Senior High School",
+    "Passed %": 72,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 252,
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "School": "Kaleo Senior High Technical School",
+    "Passed %": 78,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 253,
+    "Region": "Upper West",
+    "District": "Daffiama-Bussie-Issa",
+    "School": "Daffiama Senior High Technical School",
+    "Passed %": 75,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 254,
+    "Region": "Upper West",
+    "District": "Daffiama-Bussie-Issa",
+    "School": "Bussie Senior High Technical School",
+    "Passed %": 80,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 255,
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "School": "Jirapa Senior High Technical School",
+    "Passed %": 82,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 256,
+    "Region": "Ashanti",
+    "District": "Mampong Municipal",
+    "School": "St. Joseph Sem/Senior High School, Mampong",
+    "Passed %": 29,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 257,
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "School": "Yeboah Asuamah Senior High School",
+    "Passed %": 28,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 258,
+    "Region": "Western North",
+    "District": "Bia West",
+    "School": "Bia Senior High/Tech School",
+    "Passed %": 28,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 259,
+    "Region": "Central",
+    "District": "Mfantsiman Municipal",
+    "School": "Methodist Senior High School, Saltpond",
+    "Passed %": 28,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 260,
+    "Region": "Central",
+    "District": "Asikuma/Odoben/Brakwa",
+    "School": "Breman Asikuma Senior High School",
+    "Passed %": 28,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 261,
+    "Region": "Central",
+    "District": "Mfantsiman Municipal",
+    "School": "Kwegyir Aggrey Senior High School",
+    "Passed %": 28,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 262,
+    "Region": "Eastern",
+    "District": "Akwapim North",
+    "School": "Presby Senior High School, Mampong Akwapim",
+    "Passed %": 28,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 263,
+    "Region": "Ashanti",
+    "District": "Kumasi Metro",
+    "School": "Islamic Senior High School, Ampabame",
+    "Passed %": 28,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 264,
+    "Region": "Ahafo",
+    "District": "Asutifi South",
+    "School": "Acherensua Senior High School",
+    "Passed %": 27,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 265,
+    "Region": "Volta",
+    "District": "Kpando",
+    "School": "Kpando Senior High School",
+    "Passed %": 27,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 266,
+    "Region": "Greater Accra",
+    "District": "Ledzokuku-Krowor Municipal",
+    "School": "Nungua Senior High School",
+    "Passed %": 27,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 267,
+    "Region": "Ashanti",
+    "District": "Asante Akim North",
+    "School": "Collins Senior High/Commercial School, Agogo",
+    "Passed %": 27,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 268,
+    "Region": "Central",
+    "District": "Agona West Municipal",
+    "School": "Siddiq Senior High School",
+    "Passed %": 27,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 269,
+    "Region": "Eastern",
+    "District": "Birim South",
+    "School": "Akim Swedru Senior High School",
+    "Passed %": 27,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 270,
+    "Region": "Volta",
+    "District": "Central Tongu",
+    "School": "Mafi-Kumasi Senior High/Tech School",
+    "Passed %": 26,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 271,
+    "Region": "Volta",
+    "District": "Anlo",
+    "School": "Anlo Senior High School",
+    "Passed %": 26,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 272,
+    "Region": "Northern",
+    "District": "Tamale Metro",
+    "School": "Ghana Senior High School, Tamale",
+    "Passed %": 26,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 273,
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "School": "Juaso Senior High/Tech School",
+    "Passed %": 26,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 274,
+    "Region": "Eastern",
+    "District": "Akwapim North",
+    "School": "Nifa Senior High School",
+    "Passed %": 26,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 275,
+    "Region": "Ashanti",
+    "District": "Ejura/Sekyedumase",
+    "School": "Akwesi Awobaa Senior High School",
+    "Passed %": 26,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 276,
+    "Region": "Eastern",
+    "District": "Fanteakwa",
+    "School": "Osino Presby Senior High/Tech School",
+    "Passed %": 25,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 277,
+    "Region": "Volta",
+    "District": "South Tongu",
+    "School": "Sogakope Senior High School",
+    "Passed %": 25,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 278,
+    "Region": "Central",
+    "District": "Abura/Asebu/Kwamankese",
+    "School": "Aburaman Senior High School",
+    "Passed %": 25,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 279,
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "School": "Nkwatia Presby Senior High/Comm School",
+    "Passed %": 25,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 280,
+    "Region": "Ashanti",
+    "District": "Obuasi Municipal",
+    "School": "Obuasi Senior High/Tech School",
+    "Passed %": 24,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 281,
+    "Region": "Oti",
+    "District": "Biakoye",
+    "School": "Nkonya Senior High School",
+    "Passed %": 24,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 282,
+    "Region": "Volta",
+    "District": "Ketu South",
+    "School": "Klikor Senior High/Tech School",
+    "Passed %": 24,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 283,
+    "Region": "Ashanti",
+    "District": "Offinso Municipal",
+    "School": "Namong Senior High/Tech School",
+    "Passed %": 24,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 284,
+    "Region": "Northern",
+    "District": "Sagnerigu",
+    "School": "Islamic Science Senior High School, Tamale",
+    "Passed %": 24,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 285,
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "School": "Prampram Senior High School",
+    "Passed %": 24,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 286,
+    "Region": "Ashanti",
+    "District": "Ejisu Juaben Municipal",
+    "School": "Bonwire Senior High/Tech School",
+    "Passed %": 24,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 287,
+    "Region": "Central",
+    "District": "Assin South",
+    "School": "Nyankumase Ahenkro Senior High School",
+    "Passed %": 24,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 288,
+    "Region": "Greater Accra",
+    "District": "Ablekuma West",
+    "School": "Ebenezer Senior High School",
+    "Passed %": 23,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 289,
+    "Region": "Ashanti",
+    "District": "Afigya-Kwabere",
+    "School": "Otumfuo Osei Tutu II College",
+    "Passed %": 23,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 290,
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "School": "Asankrangwa Senior High School",
+    "Passed %": 23,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 291,
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem Municipal",
+    "School": "Tarkwa Senior High School",
+    "Passed %": 23,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 292,
+    "Region": "Oti",
+    "District": "Jasikan",
+    "School": "Okadjakrom Senior High/Tech School",
+    "Passed %": 23,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 293,
+    "Region": "Bono East",
+    "District": "Techiman North",
+    "School": "Tuobodom Senior High/Tech School",
+    "Passed %": 22,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 294,
+    "Region": "Ashanti",
+    "District": "Kwabre East",
+    "School": "Adanwomase Senior High School",
+    "Passed %": 22,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 295,
+    "Region": "Greater Accra",
+    "District": "Ada West",
+    "School": "Ada Senior High School",
+    "Passed %": 22,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 296,
+    "Region": "Northern",
+    "District": "Saboba",
+    "School": "Saboba E.P. Senior High School",
+    "Passed %": 22,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 297,
+    "Region": "Central",
+    "District": "Agona West Municipal",
+    "School": "Nsaba Presby Senior High School",
+    "Passed %": 22,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 298,
+    "Region": "Eastern",
+    "District": "Yilo Krobo",
+    "School": "Yilo Krobo Senior High School",
+    "Passed %": 22,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 299,
+    "Region": "Volta",
+    "District": "Ketu North",
+    "School": "Dzodze Penyi Senior High School",
+    "Passed %": 22,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 300,
+    "Region": "Central",
+    "District": "Cape Coast Metro",
+    "School": "Wesley Girls' High School",
+    "Passed %": 21,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 301,
+    "Region": "Ashanti",
+    "District": "Kumasi Metro",
+    "School": "Osei Kyeretwie Senior High School",
+    "Passed %": 21,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 302,
+    "Region": "Volta",
+    "District": "Ho",
+    "School": "Ola Senior High School, Ho",
+    "Passed %": 21,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 303,
+    "Region": "Northern",
+    "District": "Yendi",
+    "School": "Yendi Senior High School",
+    "Passed %": 21,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 304,
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "School": "Boso Senior High/Tech School",
+    "Passed %": 21,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 305,
+    "Region": "Western",
+    "District": "Nzema East Municipal",
+    "School": "Half Assini Senior High School",
+    "Passed %": 20,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 306,
+    "Region": "Bono East",
+    "District": "Kintampo North Municipal",
+    "School": "Kintampo Senior High School",
+    "Passed %": 20,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 307,
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "School": "Wa Senior High/Tech School",
+    "Passed %": 20,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 308,
+    "Region": "Greater Accra",
+    "District": "Adentan Municipal",
+    "School": "Adenta Community Senior High School",
+    "Passed %": 20,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 309,
+    "Region": "Eastern",
+    "District": "New Juaben North",
+    "School": "New Juaben Senior High School",
+    "Passed %": 20,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 310,
+    "Region": "Northern",
+    "District": "West Mamprusi",
+    "School": "Walewale Senior High School",
+    "Passed %": 20,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 311,
+    "Region": "Eastern",
+    "District": "Fanteakwa",
+    "School": "Begoro Presby Senior High/Tech School",
+    "Passed %": 19,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 312,
+    "Region": "Western",
+    "District": "Ahanta West",
+    "School": "Ahantaman Girls Senior High School",
+    "Passed %": 19,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 313,
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre South",
+    "School": "Tetrem Senior High School",
+    "Passed %": 19,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 314,
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "School": "Kadjebi-Asato Senior High School",
+    "Passed %": 19,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 315,
+    "Region": "Northern",
+    "District": "Karaga",
+    "School": "Karaga Senior High School",
+    "Passed %": 19,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 316,
+    "Region": "Central",
+    "District": "Gomoa East",
+    "School": "Kwanyako Senior High School",
+    "Passed %": 19,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 317,
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "School": "Ve Senior High/Tech School",
+    "Passed %": 18,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 318,
+    "Region": "Northern",
+    "District": "Nanumba South",
+    "School": "Wulensi Senior High School",
+    "Passed %": 18,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 319,
+    "Region": "Western",
+    "District": "Ellembelle",
+    "School": "Nkroful Agricultural Senior High School",
+    "Passed %": 18,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 320,
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "School": "Akim Wenchi Senior High School",
+    "Passed %": 18,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 321,
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South",
+    "School": "Mankranso Senior High School",
+    "Passed %": 18,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 322,
+    "Region": "Central",
+    "District": "Komenda-Edina-Eguafo-Abirem Municipal",
+    "School": "Komenda Senior High/Tech School",
+    "Passed %": 18,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 323,
+    "Region": "Volta",
+    "District": "North Dayi",
+    "School": "Vakpo Senior High School",
+    "Passed %": 17,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 324,
+    "Region": "Upper East",
+    "District": "Bolgatanga",
+    "School": "Bolgatanga Girls' Senior High School",
+    "Passed %": 17,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 325,
+    "Region": "Ashanti",
+    "District": "Sekyere South",
+    "School": "Beposo Senior High School",
+    "Passed %": 17,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 326,
+    "Region": "Greater Accra",
+    "District": "Tema Metro",
+    "School": "Tema Manhean Senior High School",
+    "Passed %": 17,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 327,
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "School": "Ofoase Senior High/Tech School",
+    "Passed %": 17,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 328,
+    "Region": "Bono",
+    "District": "Dormaa East",
+    "School": "Wamfie Senior High School",
+    "Passed %": 17,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 329,
+    "Region": "Central",
+    "District": "Abura/Asebu/Kwamankese",
+    "School": "Moree Senior High/Tech School",
+    "Passed %": 16,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 330,
+    "Region": "Northern",
+    "District": "Zabzugu",
+    "School": "Zabzugu Senior High School",
+    "Passed %": 16,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 331,
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "School": "Kuntanase Senior High School",
+    "Passed %": 16,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 332,
+    "Region": "Volta",
+    "District": "Ketu North",
+    "School": "Penyi Senior High School",
+    "Passed %": 16,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 333,
+    "Region": "Bono East",
+    "District": "Nkoranza South",
+    "School": "Nkoranza Senior High School",
+    "Passed %": 16,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 334,
+    "Region": "Central",
+    "District": "Cape Coast Metro",
+    "School": "Cape Coast Senior High/Tech School",
+    "Passed %": 16,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 335,
+    "Region": "Oti",
+    "District": "Nkwanta North",
+    "School": "Kpassa Senior High/Tech School",
+    "Passed %": 15,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 336,
+    "Region": "Western North",
+    "District": "Juaboso",
+    "School": "Juaboso Senior High School",
+    "Passed %": 15,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 337,
+    "Region": "Ashanti",
+    "District": "Atwima Kwanwoma",
+    "School": "Trede Senior High/Tech School",
+    "Passed %": 15,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 338,
+    "Region": "Central",
+    "District": "Assin North",
+    "School": "Assin Foso Senior High/Tech School",
+    "Passed %": 15,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 339,
+    "Region": "Upper East",
+    "District": "Kassena-Nankana West",
+    "School": "Navrongo Senior High School",
+    "Passed %": 15,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 340,
+    "Region": "Eastern",
+    "District": "Kwahu South",
+    "School": "Kwahu Tafo Senior High School",
+    "Passed %": 14,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 341,
+    "Region": "Western",
+    "District": "Tarkwa Nsuaem",
+    "School": "Fiaseman Senior High School",
+    "Passed %": 14,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 342,
+    "Region": "Central",
+    "District": "Mfantsiman",
+    "School": "Mankessim Senior High/Tech School",
+    "Passed %": 14,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 343,
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "School": "Kadjebi Senior High/Tech School",
+    "Passed %": 14,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 344,
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "School": "Ghana International School",
+    "Passed %": 14,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 345,
+    "Region": "Northern",
+    "District": "Saboba",
+    "School": "St. Charles Minor Seminary",
+    "Passed %": 13,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 346,
+    "Region": "Western",
+    "District": "Sekondi-Takoradi Metro",
+    "School": "Takoradi Senior High School",
+    "Passed %": 13,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 347,
+    "Region": "Eastern",
+    "District": "New Juaben South",
+    "School": "Koforidua Senior High/Tech School",
+    "Passed %": 13,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 348,
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "School": "Jirapa Senior High School",
+    "Passed %": 13,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 349,
+    "Region": "Ashanti",
+    "District": "Adansi North",
+    "School": "Fomena T.I. Ahmadiyya Senior High",
+    "Passed %": 12,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 350,
+    "Region": "Volta",
+    "District": "South Tongu",
+    "School": "Sogakope Senior High School",
+    "Passed %": 12,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 351,
+    "Region": "Northern",
+    "District": "Tolon",
+    "School": "Tolon Senior High School",
+    "Passed %": 12,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 352,
+    "Region": "Western North",
+    "District": "Bia West",
+    "School": "Bia Senior High/Tech School",
+    "Passed %": 12,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 353,
+    "Region": "Central",
+    "District": "Effutu",
+    "School": "Winneba Senior High School",
+    "Passed %": 12,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 354,
+    "Region": "Bono East",
+    "District": "Atebubu-Amantin",
+    "School": "Atebubu Senior High School",
+    "Passed %": 12,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 355,
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "School": "Nkwanta Senior High School",
+    "Passed %": 11,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 356,
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "School": "Amasaman Senior High/Tech School",
+    "Passed %": 11,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 357,
+    "Region": "Eastern",
+    "District": "Akuapem South",
+    "School": "Nsawam Senior High School",
+    "Passed %": 11,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 358,
+    "Region": "Western",
+    "District": "Wassa East",
+    "School": "Daboase Senior High/Tech School",
+    "Passed %": 11,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 359,
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "School": "Zebilla Senior High/Tech School",
+    "Passed %": 11,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 360,
+    "Region": "Ashanti",
+    "District": "Kwabre East",
+    "School": "Antoa Senior High School",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 361,
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "School": "Chiraa Senior High School",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 362,
+    "Region": "Northern",
+    "District": "Saboba",
+    "School": "Saboba E.P. Senior High School",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 363,
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "School": "Donkorkrom Agric Senior High",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 364,
+    "Region": "Western North",
+    "District": "Sefwi Akontombra",
+    "School": "Akontombra Senior High School",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 365,
+    "Region": "Volta",
+    "District": "Ho West",
+    "School": "Abutia Senior High/Tech School",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 366,
+    "Region": "Central",
+    "District": "Twifo Hemang Lower Denkyira",
+    "School": "Twifo Praso Senior High School",
+    "Passed %": 9,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 367,
+    "Region": "Ashanti",
+    "District": "Asokore Mampong",
+    "School": "Adu Gyamfi Senior High School",
+    "Passed %": 9,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 368,
+    "Region": "Northern",
+    "District": "Tamale Metro",
+    "School": "Vittin Senior High/Tech School",
+    "Passed %": 9,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 369,
+    "Region": "Greater Accra",
+    "District": "La Nkwantanang-Madina",
+    "School": "Madina Senior High School",
+    "Passed %": 9,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 370,
+    "Region": "Eastern",
+    "District": "Suhum",
+    "School": "Suhum Senior High/Tech School",
+    "Passed %": 9,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 371,
+    "Region": "Western",
+    "District": "Shama",
+    "School": "Shama Senior High/Tech School",
+    "Passed %": 9,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 372,
+    "Region": "Oti",
+    "District": "Krachi West",
+    "School": "Krachi Senior High School",
+    "Passed %": 8,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 373,
+    "Region": "Central",
+    "District": "Assin South",
+    "School": "Assin Manso Senior High School",
+    "Passed %": 8,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 374,
+    "Region": "Volta",
+    "District": "Ketu South",
+    "School": "Agbozume Senior High School",
+    "Passed %": 8,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 375,
+    "Region": "Ashanti",
+    "District": "Sekyere Central",
+    "School": "Nsutaman Catholic Senior High",
+    "Passed %": 8,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 376,
+    "Region": "Eastern",
+    "District": "Denkyembour",
+    "School": "Akim Sekyere Senior High School",
+    "Passed %": 8,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 377,
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "School": "Lambussie Senior High School",
+    "Passed %": 8,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 378,
+    "Region": "Northern",
+    "District": "Mion",
+    "School": "Sang Senior High/Tech School",
+    "Passed %": 7,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 379,
+    "Region": "Western",
+    "District": "Nzema East",
+    "School": "Esiama Senior High/Tech School",
+    "Passed %": 7,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 380,
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "School": "Techiman Senior High School",
+    "Passed %": 7,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 381,
+    "Region": "Eastern",
+    "District": "Yilo Krobo",
+    "School": "Somanya Senior High/Tech School",
+    "Passed %": 7,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 382,
+    "Region": "Volta",
+    "District": "Central Tongu",
+    "School": "Adidome Senior High School",
+    "Passed %": 7,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 383,
+    "Region": "Upper East",
+    "District": "Binduri",
+    "School": "Binduri Senior High School",
+    "Passed %": 6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 384,
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "School": "Ejisu Senior High/Tech School",
+    "Passed %": 6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 385,
+    "Region": "Northern",
+    "District": "Nanton",
+    "School": "Nanton Senior High School",
+    "Passed %": 6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 386,
+    "Region": "Western North",
+    "District": "Bodi",
+    "School": "Bodi Senior High School",
+    "Passed %": 6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 387,
+    "Region": "Central",
+    "District": "Cape Coast Metro",
+    "School": "Aggrey Memorial A.M.E. Zion",
+    "Passed %": 6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 388,
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "School": "Accra Wesley Girls' Senior High",
+    "Passed %": 5,
+    "Residency": "Day/Boarding",
+    "Gender": "Female",
+    "Email": ""
+  },
+  {
+    "S.N": 389,
+    "Region": "Upper East",
+    "District": "Bongo",
+    "School": "Bongo Senior High School",
+    "Passed %": 5,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 390,
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "School": "Akatsi Senior High/Tech School",
+    "Passed %": 5,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 391,
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "School": "Abetifi Presby Senior High",
+    "Passed %": 5,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 392,
+    "Region": "Western",
+    "District": "Jomoro",
+    "School": "Beyin Senior High School",
+    "Passed %": 4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 393,
+    "Region": "Ashanti",
+    "District": "Ahafo Ano North",
+    "School": "Tepa Senior High School",
+    "Passed %": 4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 394,
+    "Region": "Bono",
+    "District": "Tain",
+    "School": "Badu Senior High/Tech School",
+    "Passed %": 4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 395,
+    "Region": "Upper West",
+    "District": "Wa East",
+    "School": "Funsi Senior High School",
+    "Passed %": 4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 396,
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "School": "Nkawkaw Senior High School",
+    "Passed %": 3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 397,
+    "Region": "Northern",
+    "District": "Kpandai",
+    "School": "Kpandai Senior High School",
+    "Passed %": 3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 398,
+    "Region": "Western",
+    "District": "Tarkwa Nsuaem",
+    "School": "Bogoso Senior High/Tech School",
+    "Passed %": 3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 399,
+    "Region": "Oti",
+    "District": "Krachi East",
+    "School": "Krachi East Senior High School",
+    "Passed %": 3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 400,
+    "Region": "Central",
+    "District": "Agona West",
+    "School": "Swedru Senior High School",
+    "Passed %": 3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 401,
+    "Region": "Greater Accra",
+    "District": "Ga East",
+    "School": "Abokobi Presby Senior High",
+    "Passed %": 2,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 402,
+    "Region": "Upper East",
+    "District": "Talensi",
+    "School": "Tongo Senior High/Tech School",
+    "Passed %": 2,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 403,
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "School": "Dodi-Papase Senior High/Tech School",
+    "Passed %": 12,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 404,
+    "Region": "Ashanti",
+    "District": "Kwabre East",
+    "School": "Kofi Adjei Senior High/Tech School",
+    "Passed %": 11,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 405,
+    "Region": "Central",
+    "District": "Assin North Municipal",
+    "School": "Assin State College",
+    "Passed %": 11,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 406,
+    "Region": "Central",
+    "District": "Komenda/Edina/Eguafo/Abirem Municipal",
+    "School": "Komenda Senior High/Tech. School",
+    "Passed %": 11,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 407,
+    "Region": "Ashanti",
+    "District": "Atwima Kwanwoma",
+    "School": "Atwima Kwanwoma Senior High/Tech School",
+    "Passed %": 11,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 408,
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "School": "Kusanaba Senior High School",
+    "Passed %": 11,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 409,
+    "Region": "Western",
+    "District": "Sekondi Takoradi Metro",
+    "School": "Methodist Senior High School, Sekondi",
+    "Passed %": 11,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 410,
+    "Region": "Upper West",
+    "District": "Lawra",
+    "School": "Lawra Senior High School",
+    "Passed %": 11,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 411,
+    "Region": "Eastern",
+    "District": "Birim South",
+    "School": "Aperade Senior High/Tech. School",
+    "Passed %": 11,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 412,
+    "Region": "Upper West",
+    "District": "Bussie-Issa",
+    "School": "Daffiamah Senior High School",
+    "Passed %": 11,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 413,
+    "Region": "Bono",
+    "District": "Wenchi Municipal",
+    "School": "Nkyeraa Senior High School",
+    "Passed %": 11,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 414,
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "School": "Sandema Senior High School",
+    "Passed %": 11,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 415,
+    "Region": "Western",
+    "District": "Mpohor",
+    "School": "Wassa East Daboase Senior High/Tech School",
+    "Passed %": 11,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 416,
+    "Region": "Western",
+    "District": "Nzema East Municipal",
+    "School": "Gwiraman Comm.senior High School",
+    "Passed %": 11,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 417,
+    "Region": "Western",
+    "District": "Prestea Huni Valley",
+    "School": "Huni Valley Senior High School",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 418,
+    "Region": "Central",
+    "District": "Agona East",
+    "School": "Kwanyako Senior High School",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 419,
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "School": "Kaneshie Senior High/Tech School",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 420,
+    "Region": "Ashanti",
+    "District": "Kumasi Metro",
+    "School": "Al-Azariya Islamic Senior High School, Kumasi",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 421,
+    "Region": "Volta",
+    "District": "North Tongu",
+    "School": "Aveyime Battor Senior High/Tech School",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 422,
+    "Region": "Western",
+    "District": "Jomoro",
+    "School": "Half Assini Senior High School",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 423,
+    "Region": "Upper East",
+    "District": "Bawku Municipal",
+    "School": "Bawku Senior High School",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 424,
+    "Region": "Volta",
+    "District": "Ho Municipal",
+    "School": "Tanyigbe Senior High School",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 425,
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "School": "Diaso Senior High School",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 426,
+    "Region": "Greater Accra",
+    "District": "Korley Klottey",
+    "School": "Presby Senior High School, Osu",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 427,
+    "Region": "Oti",
+    "District": "Krachi West",
+    "School": "Krachi Senior High School",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 428,
+    "Region": "Central",
+    "District": "Komenda/Edina/Eguafo/Abirem Municipal",
+    "School": "Eguafo-Abrem Senior High School",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 429,
+    "Region": "Ashanti",
+    "District": "Ejisu Juaben Municipal",
+    "School": "Achinakrom Senior High School",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 430,
+    "Region": "Volta",
+    "District": "Hohoe Municipal",
+    "School": "E. P. Senior High School",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 431,
+    "Region": "Volta",
+    "District": "Anlo",
+    "School": "Abor Senior High School",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 432,
+    "Region": "Volta",
+    "District": "South Dayi",
+    "School": "Kpeve Senior High School",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 433,
+    "Region": "Bono East",
+    "District": "Kintampo North Municipal",
+    "School": "Kintampo Senior High School",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 434,
+    "Region": "Eastern",
+    "District": "Akwapim North",
+    "School": "Presby Senior High/Tech School, Larteh",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 435,
+    "Region": "Upper East",
+    "District": "Garu",
+    "School": "Tempani Tempane Senior High School",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 436,
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "School": "Awutu Bawjiase Comm. Senior High School",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 437,
+    "Region": "Volta",
+    "District": "North Dayi",
+    "School": "Vakpo Senior High/Tech School",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 438,
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "School": "Presbyterian Snr. High School, Bompata",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 439,
+    "Region": "Eastern",
+    "District": "Birim Central Municipal",
+    "School": "Attafuah Senior High/Tech School",
+    "Passed %": 10,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 440,
+    "Region": "Upper East",
+    "District": "Bongo",
+    "School": "Gowrie Senior High/Tech School",
+    "Passed %": 9,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 441,
+    "Region": "Bono East",
+    "District": "Techiman North",
+    "School": "St. Francis Seminary/Senior High School, Buoyem",
+    "Passed %": 9,
+    "Residency": "Day/Boarding",
+    "Gender": "Male",
+    "Email": ""
+  },
+  {
+    "S.N": 442,
+    "Region": "Central",
+    "District": "Awutu/Senya",
+    "School": "Odupong Comm. Day School",
+    "Passed %": 9,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 443,
+    "Region": "Ashanti",
+    "District": "Kumasi Metro",
+    "School": "Agric Nzema Senior High School, Kumasi",
+    "Passed %": 9,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 444,
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "School": "T. I. Ahmadiyya Senior High School, Wa",
+    "Passed %": 9,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 445,
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "School": "Walewale Senior High School",
+    "Passed %": 9,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 446,
+    "Region": "Volta",
+    "District": "North Tongu",
+    "School": "Dofor Senior High School",
+    "Passed %": 9,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 447,
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem Municipal",
+    "School": "Benso Senior High/Tech School",
+    "Passed %": 9,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 448,
+    "Region": "Volta",
+    "District": "Afadzato South",
+    "School": "Ve Comm. Senior High School",
+    "Passed %": 9,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 449,
+    "Region": "Ashanti",
+    "District": "Kumasi Metro",
+    "School": "Nuru-Ameen Islamic Senior High School, Asewase",
+    "Passed %": 9,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 450,
+    "Region": "Eastern",
+    "District": "Fanteakwa",
+    "School": "New Nsutam Senior High/Tech School",
+    "Passed %": 9,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 451,
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem Municipal",
+    "School": "Fiaseman Senior High School",
+    "Passed %": 9,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 452,
+    "Region": "Ashanti",
+    "District": "Adansi South",
+    "School": "New Edubiase Senior High School",
+    "Passed %": 9,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 453,
+    "Region": "Eastern",
+    "District": "Akwapim North",
+    "School": "H'mount Sinai Senior High School",
+    "Passed %": 9,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 454,
+    "Region": "Volta",
+    "District": "Akatsi",
+    "School": "Akatsi Senior High/Tech School",
+    "Passed %": 9,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 455,
+    "Region": "Central",
+    "District": "Gomoa East",
+    "School": "St. Gregory Catholic Senior High School",
+    "Passed %": 9,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 456,
+    "Region": "Volta",
+    "District": "Ketu North",
+    "School": "Wovenu Senior High Technical School",
+    "Passed %": 9,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 457,
+    "Region": "Eastern",
+    "District": "Birim South",
+    "School": "Achiase Senior High School",
+    "Passed %": 9,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 458,
+    "Region": "Central",
+    "District": "Gomoa West",
+    "School": "Mozano Senior High School",
+    "Passed %": 8,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 459,
+    "Region": "Oti",
+    "District": "Krachi East",
+    "School": "Asukawkaw Senior High School",
+    "Passed %": 8,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 460,
+    "Region": "Volta",
+    "District": "Ketu North",
+    "School": "Dzodze Penyi Senior High School",
+    "Passed %": 8,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 461,
+    "Region": "Volta",
+    "District": "Ho West",
+    "School": "Kpedze Senior High School",
+    "Passed %": 8,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 462,
+    "Region": "Ashanti",
+    "District": "Kwabre East",
+    "School": "Simms Senior High/Comm. School",
+    "Passed %": 8,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 463,
+    "Region": "Central",
+    "District": "Cape Coast Metro",
+    "School": "Oguaa Senior High/Tech School",
+    "Passed %": 8,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 464,
+    "Region": "Ashanti",
+    "District": "Offinso Municipal",
+    "School": "Dwamena Akenten Senior High School",
+    "Passed %": 8,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 465,
+    "Region": "Volta",
+    "District": "Ketu South",
+    "School": "Some Senior High School",
+    "Passed %": 8,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 466,
+    "Region": "Volta",
+    "District": "Hohoe Municipal",
+    "School": "Likpe Senior High School",
+    "Passed %": 8,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 467,
+    "Region": "Ashanti",
+    "District": "Sekyere South",
+    "School": "Agona Senior High/Tech School",
+    "Passed %": 8,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 468,
+    "Region": "Eastern",
+    "District": "Suhum Municipal",
+    "School": "Islamic Girls Senior High School, Suhum",
+    "Passed %": 8,
+    "Residency": "Day/Boarding",
+    "Gender": "Female",
+    "Email": ""
+  },
+  {
+    "S.N": 469,
+    "Region": "Eastern",
+    "District": "Afram Plains (Kwahu North)",
+    "School": "Donkorkrom Agric Senior High School",
+    "Passed %": 8,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 470,
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "School": "Islamic Senior High School, Wa",
+    "Passed %": 8,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 471,
+    "Region": "Volta",
+    "District": "Agortime Ziope",
+    "School": "Agotime Senior High School",
+    "Passed %": 8,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 472,
+    "Region": "Eastern",
+    "District": "East Akim Municipal",
+    "School": "St. Stephen's Presby Senior High/Tech School, Asiakwa",
+    "Passed %": 8,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 473,
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "School": "Nkwanta Senior High School",
+    "Passed %": 8,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 474,
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "School": "Sandema Senior High/Tech School",
+    "Passed %": 8,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 475,
+    "Region": "Eastern",
+    "District": "West Akim Municipal",
+    "School": "St. Thomas Senior High/Tech School",
+    "Passed %": 8,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 476,
+    "Region": "Western",
+    "District": "Sekondi Takoradi Metro",
+    "School": "Adiembra Senior High School",
+    "Passed %": 7,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 477,
+    "Region": "Central",
+    "District": "Assin South",
+    "School": "Assin Nsuta Senior High School",
+    "Passed %": 7,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 478,
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "School": "Ntruboman Senior High School",
+    "Passed %": 7,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 479,
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "School": "Wa Senior High/Tech School",
+    "Passed %": 7,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 480,
+    "Region": "Savannah",
+    "District": "West Gonja",
+    "School": "Damongo Senior High School",
+    "Passed %": 7,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 481,
+    "Region": "Eastern",
+    "District": "Afram Plains South",
+    "School": "St. Fidelis Senior High/Tech School",
+    "Passed %": 7,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 482,
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "School": "Asuom Senior High School",
+    "Passed %": 7,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 483,
+    "Region": "Eastern",
+    "District": "Kwahu South",
+    "School": "St. Paul's Senior High School",
+    "Passed %": 7,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 484,
+    "Region": "Volta",
+    "District": "South Tongu",
+    "School": "Dabala Senior High/Tech School",
+    "Passed %": 7,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 485,
+    "Region": "Volta",
+    "District": "Ketu North",
+    "School": "Weta Senior High/Tech School",
+    "Passed %": 7,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 486,
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "School": "Zamse Senior High/Tech School",
+    "Passed %": 7,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 487,
+    "Region": "Ashanti",
+    "District": "Kumasi Metro",
+    "School": "Prince Of Peace Girls Senior High School",
+    "Passed %": 7,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 488,
+    "Region": "Eastern",
+    "District": "Akwapim North",
+    "School": "Mangoase Senior High School",
+    "Passed %": 7,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 489,
+    "Region": "Greater Accra",
+    "District": "Ga West Municipal",
+    "School": "Amasaman Senior High/Tech School",
+    "Passed %": 7,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 490,
+    "Region": "Volta",
+    "District": "Anlo",
+    "School": "Anlo Awomefia Senior High School",
+    "Passed %": 7,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 491,
+    "Region": "Upper West",
+    "District": "Nadowli Kaleo",
+    "School": "Kaleo Senior High/Tech School",
+    "Passed %": 7,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 492,
+    "Region": "Northern",
+    "District": "Tamale Metro",
+    "School": "Vitting Senior High/Tech School",
+    "Passed %": 7,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 493,
+    "Region": "Western",
+    "District": "Jomoro",
+    "School": "Annor Adjaye Senior High School",
+    "Passed %": 7,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 494,
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "School": "Holy Trinity Senior High School",
+    "Passed %": 7,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 495,
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "School": "St. Dominic's Senior High/Tech",
+    "Passed %": 7,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 496,
+    "Region": "Western",
+    "District": "Ellembele",
+    "School": "Bonzo-Kaku Senior High School",
+    "Passed %": 7,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 497,
+    "Region": "Ashanti",
+    "District": "Sekyere Central",
+    "School": "Presby Senior High/Tech School",
+    "Passed %": 6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 498,
+    "Region": "Volta",
+    "District": "Ho Municipal",
+    "School": "Sokode Senior High/Tech School",
+    "Passed %": 6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 499,
+    "Region": "Eastern",
+    "District": "Upper Manya Krobo",
+    "School": "Asesewa Senior High School",
+    "Passed %": 6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 500,
+    "Region": "Oti",
+    "District": "Krachi West",
+    "School": "Kete Krachi Senior High/Tech School",
+    "Passed %": 6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 501,
+    "Region": "Volta",
+    "District": "Ketu North",
+    "School": "Afife Senior High Tech School",
+    "Passed %": 6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 502,
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "School": "Asankrangwa Senior High/Tech School",
+    "Passed %": 6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 503,
+    "Region": "Central",
+    "District": "Gomoa West",
+    "School": "Gomoa Senior High/Tech School",
+    "Passed %": 6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 504,
+    "Region": "Eastern",
+    "District": "East Akim Municipal",
+    "School": "Akim Asafo Senior High School",
+    "Passed %": 6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 505,
+    "Region": "Eastern",
+    "District": "Kwahu South",
+    "School": "Bepong Senior High School",
+    "Passed %": 6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 506,
+    "Region": "Volta",
+    "District": "Ho Municipal",
+    "School": "Shia Senior High Technical School",
+    "Passed %": 6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 507,
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "School": "Ahamansu Islamic Senior High School",
+    "Passed %": 6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 508,
+    "Region": "Central",
+    "District": "Gomoa East",
+    "School": "Gomoa Gyaman Senior High School",
+    "Passed %": 6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 509,
+    "Region": "Savannah",
+    "District": "East Gonja",
+    "School": "Salaga Senior High School",
+    "Passed %": 6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 510,
+    "Region": "Central",
+    "District": "Upper Denkyira East Municipal",
+    "School": "Dunkwa Senior High/Tech School",
+    "Passed %": 6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 511,
+    "Region": "Volta",
+    "District": "Ho West",
+    "School": "Avatime Senior High School",
+    "Passed %": 6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 512,
+    "Region": "Ashanti",
+    "District": "Kwabre East",
+    "School": "Gyaama Pensan Senior High/Tech School",
+    "Passed %": 6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 513,
+    "Region": "Greater Accra",
+    "District": "Ledzokuku-Krowor Municipal",
+    "School": "Presby Senior High School, Teshie",
+    "Passed %": 6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 514,
+    "Region": "Greater Accra",
+    "District": "Ga West Municipal",
+    "School": "Adjen Kotoku Senior High School",
+    "Passed %": 6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 515,
+    "Region": "Bono East",
+    "District": "Atebubu-Amantin",
+    "School": "Atebubu Senior High School",
+    "Passed %": 6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 516,
+    "Region": "Ashanti",
+    "District": "Asokore Mampong Municipal",
+    "School": "Parkoso Comm. Senior High School",
+    "Passed %": 6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 517,
+    "Region": "Central",
+    "District": "Abura/Asebu/Kwamankese",
+    "School": "Moree Comm. Senior High School",
+    "Passed %": 6,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 518,
+    "Region": "Volta",
+    "District": "Afadzato South",
+    "School": "Jim Bourton Mem Agric. Senior High School",
+    "Passed %": 5,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 519,
+    "Region": "Western",
+    "District": "Sekondi Takoradi Metro",
+    "School": "Diabene Senior High/Tech School",
+    "Passed %": 5,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 520,
+    "Region": "Ashanti",
+    "District": "Sekyere East",
+    "School": "Effiduase Senior High/Tech School",
+    "Passed %": 5,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 521,
+    "Region": "Ahafo",
+    "District": "Asutifi South",
+    "School": "Hwidiem Senior High School",
+    "Passed %": 5,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 522,
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "School": "Apeguso Senior High School",
+    "Passed %": 5,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 523,
+    "Region": "Oti",
+    "District": "Nkwanta North",
+    "School": "Kpassa Senior High/Tech School",
+    "Passed %": 5,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 524,
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "School": "Han Senior High School",
+    "Passed %": 5,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 525,
+    "Region": "Ashanti",
+    "District": "Bekwai Municipal",
+    "School": "St. Joseph Senior High/Tech School, Ahwiren",
+    "Passed %": 5,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 526,
+    "Region": "Upper West",
+    "District": "Nandom",
+    "School": "Ko Senior High School",
+    "Passed %": 5,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 527,
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "School": "Anum Apapam Comm. Day Senior High School",
+    "Passed %": 5,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 528,
+    "Region": "Ashanti",
+    "District": "Bekwai Municipal",
+    "School": "Wesley High Senior High School, Bekwai",
+    "Passed %": 5,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 529,
+    "Region": "Savannah",
+    "District": "Bole",
+    "School": "Bole Senior High School",
+    "Passed %": 5,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 530,
+    "Region": "Northern",
+    "District": "Kpandai",
+    "School": "Kpandai Senior High School",
+    "Passed %": 5,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 531,
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "School": "Zuarungu Senior High School",
+    "Passed %": 5,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 532,
+    "Region": "Oti",
+    "District": "Krachi East",
+    "School": "Oti Senior High/Tech School",
+    "Passed %": 5,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 533,
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "School": "Banka Comm. Senior High School",
+    "Passed %": 4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 534,
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "School": "Ullo Senior High School",
+    "Passed %": 4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 535,
+    "Region": "Central",
+    "District": "Awutu/Senya",
+    "School": "Senya Senior High School",
+    "Passed %": 4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 536,
+    "Region": "Oti",
+    "District": "Biakoye",
+    "School": "Bowiri Comm. Day Senior High School",
+    "Passed %": 4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 537,
+    "Region": "Western",
+    "District": "Prestea Huni Valley",
+    "School": "Prestea Senior High/Tech School",
+    "Passed %": 4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 538,
+    "Region": "Volta",
+    "District": "Anlo Keta Municipal",
+    "School": "Atiavi Senior High/Tech",
+    "Passed %": 4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 539,
+    "Region": "Central",
+    "District": "Ajumako/Enyan/Esiam",
+    "School": "Bisease Senior High/Comm School",
+    "Passed %": 4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 540,
+    "Region": "Volta",
+    "District": "Ho West",
+    "School": "Akome Senior High/Tech School",
+    "Passed %": 4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 541,
+    "Region": "Oti",
+    "District": "Biakoye",
+    "School": "Tapaman Senior High/Tech School",
+    "Passed %": 4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 542,
+    "Region": "Ashanti",
+    "District": "Bekwai Municipal",
+    "School": "Denyaseman Cath. Senior High School",
+    "Passed %": 4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 543,
+    "Region": "Northern",
+    "District": "Nanumba South",
+    "School": "Wulensi Senior High School",
+    "Passed %": 4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 544,
+    "Region": "Ashanti",
+    "District": "Atwima Mponua",
+    "School": "Barekese Senior High School",
+    "Passed %": 4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 545,
+    "Region": "Volta",
+    "District": "Agortime Ziope",
+    "School": "Ziope Senior High School",
+    "Passed %": 4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 546,
+    "Region": "Northern",
+    "District": "Tamale Metro",
+    "School": "Anbariya Senior High School",
+    "Passed %": 4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 547,
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "School": "New Longoro Comm. Senior High School, Dega",
+    "Passed %": 4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 548,
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "School": "Kinbu Senior High/Tech School",
+    "Passed %": 4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 549,
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "School": "Nkwanta Comm. Senior High School",
+    "Passed %": 4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 550,
+    "Region": "Upper West",
+    "District": "Nandom",
+    "School": "Holy Family Senior High School",
+    "Passed %": 4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 551,
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "School": "Avenor Senior High School",
+    "Passed %": 4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 552,
+    "Region": "Eastern",
+    "District": "Lower Manya Krobo",
+    "School": "Akro Senior High/Tech School",
+    "Passed %": 4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 553,
+    "Region": "Central",
+    "District": "Awutu/Senya",
+    "School": "Obrachire Senior High/Tech School",
+    "Passed %": 4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 554,
+    "Region": "Northern",
+    "District": "Tamale Metro",
+    "School": "Presby Senior High School, Tamale",
+    "Passed %": 4,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 555,
+    "Region": "Northern",
+    "District": "Savelugu-Nanton",
+    "School": "Pong-Tamale Senior High School",
+    "Passed %": 3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 556,
+    "Region": "Upper East",
+    "District": "Kasena-Nankani Municipal",
+    "School": "St. John's Integrated Snr. High/Tech School",
+    "Passed %": 3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 557,
+    "Region": "Ashanti",
+    "District": "Sekyere East",
+    "School": "Tepa Senior High School",
+    "Passed %": 3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 558,
+    "Region": "Volta",
+    "District": "North Tongu",
+    "School": "Battor Senior High School",
+    "Passed %": 3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 559,
+    "Region": "Savannah",
+    "District": "East Gonja",
+    "School": "Salaga T.I. Ahmad Senior High School",
+    "Passed %": 3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 560,
+    "Region": "Greater Accra",
+    "District": "La Dade-Kotopon Municipal",
+    "School": "La Presby Senior High School",
+    "Passed %": 3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 561,
+    "Region": "Ashanti",
+    "District": "Amansie Central",
+    "School": "Toase Senior High School",
+    "Passed %": 3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 562,
+    "Region": "Upper East",
+    "District": "Bawku Municipal",
+    "School": "Bawku Senior High/Tech School",
+    "Passed %": 3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 563,
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "School": "Kwarteng Ankomah Senior High School",
+    "Passed %": 3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 564,
+    "Region": "Central",
+    "District": "Agona West Municipal",
+    "School": "Agona Fankobaa Senior High School",
+    "Passed %": 3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 565,
+    "Region": "Volta",
+    "District": "Anlo Keta Municipal",
+    "School": "Anlo Afiadenyigba Senior High School",
+    "Passed %": 3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 566,
+    "Region": "Volta",
+    "District": "Ho West",
+    "School": "Dzolo Senior High School",
+    "Passed %": 3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 567,
+    "Region": "Eastern",
+    "District": "Afram Plains (Kwahu North)",
+    "School": "Mem-Chemfre Comm. Senior High School",
+    "Passed %": 3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 568,
+    "Region": "Eastern",
+    "District": "Yilo Krobo",
+    "School": "Klo-Agogo Senior High School",
+    "Passed %": 3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 569,
+    "Region": "Northern",
+    "District": "Tolon",
+    "School": "Tolon Senior High School",
+    "Passed %": 3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 570,
+    "Region": "Western",
+    "District": "Nzema East Municipal",
+    "School": "Axim Girls Senior High School",
+    "Passed %": 3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 571,
+    "Region": "Northern",
+    "District": "Karaga",
+    "School": "Karaga Senior High School",
+    "Passed %": 3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 572,
+    "Region": "Upper East",
+    "District": "Kasena-Nankani West",
+    "School": "Mirigu Community Day Senior High School",
+    "Passed %": 3,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 573,
+    "Region": "Ashanti",
+    "District": "Amansie West",
+    "School": "Mansoman Senior High School",
+    "Passed %": 2,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 574,
+    "Region": "Upper West",
+    "District": "Sisala East",
+    "School": "Tumu Senior High/Tech School",
+    "Passed %": 2,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 575,
+    "Region": "Savannah",
+    "District": "Sawla-Tuna-Kalba",
+    "School": "Sawla Senior High School",
+    "Passed %": 2,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 576,
+    "Region": "Northern",
+    "District": "Savelugu-Nanton",
+    "School": "Savelugu Senior High School",
+    "Passed %": 2,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 577,
+    "Region": "Volta",
+    "District": "North Tongu",
+    "School": "Mepe St. Kizito Senior High/Tech School",
+    "Passed %": 2,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 578,
+    "Region": "Volta",
+    "District": "South Dayi",
+    "School": "Tongor Senior High Tech School",
+    "Passed %": 2,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 579,
+    "Region": "Upper West",
+    "District": "Sisala West",
+    "School": "Dr. Hila Liman Senior High School",
+    "Passed %": 2,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 580,
+    "Region": "Savannah",
+    "District": "West Gonja",
+    "School": "Ndewura Jakpa Senior High/Tech School",
+    "Passed %": 2,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 581,
+    "Region": "North East",
+    "District": "East Mamprusi",
+    "School": "Nalerigu Senior High School",
+    "Passed %": 2,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 582,
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "School": "Adjena Senior High/Tech School",
+    "Passed %": 2,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 583,
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "School": "Kongo Senior High School",
+    "Passed %": 2,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 584,
+    "Region": "Oti",
+    "District": "Krachi East",
+    "School": "Yabram Comm. Day School",
+    "Passed %": 2,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 585,
+    "Region": "Upper East",
+    "District": "Bongo",
+    "School": "Bongo Senior High School",
+    "Passed %": 2,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 586,
+    "Region": "Upper West",
+    "District": "Lawra",
+    "School": "Eremon Senior High/Tech School",
+    "Passed %": 2,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 587,
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "School": "St. George's Senior High Tech School",
+    "Passed %": 2,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 588,
+    "Region": "Bono East",
+    "District": "Kintampo South",
+    "School": "Jema Senior High School",
+    "Passed %": 2,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 589,
+    "Region": "Savannah",
+    "District": "Sawla-Tuna-Kalba",
+    "School": "Tuna Senior High/Tech School",
+    "Passed %": 2,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 590,
+    "Region": "Northern",
+    "District": "Nanumba North",
+    "School": "Bimbilla Senior High School",
+    "Passed %": 2,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 591,
+    "Region": "Volta",
+    "District": "Hohoe Municipal",
+    "School": "Alavanyo Senior High/Tech School",
+    "Passed %": 1,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 592,
+    "Region": "Upper West",
+    "District": "Wa East",
+    "School": "Funsi Senior High School",
+    "Passed %": 1,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 593,
+    "Region": "North East",
+    "District": "Chereponi",
+    "School": "Chereponi Senior High/Tech School",
+    "Passed %": 1,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 594,
+    "Region": "Ashanti",
+    "District": "Amansie West",
+    "School": "Manso-Adubia Senior High School",
+    "Passed %": 1,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 595,
+    "Region": "Upper East",
+    "District": "Binduri",
+    "School": "Binduri Comm. Senior High School",
+    "Passed %": 1,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 596,
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "School": "Jamiat Al-Hidaya Islamic Girls Senior High School",
+    "Passed %": 1,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 597,
+    "Region": "Northern",
+    "District": "Saboba",
+    "School": "Saboba E.P. Senior High School",
+    "Passed %": 1,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 598,
+    "Region": "Northern",
+    "District": "Saboba",
+    "School": "Wapuli Comm. Senior High School",
+    "Passed %": 1,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 599,
+    "Region": "Savannah",
+    "District": "North Gonja",
+    "School": "Daboya Comm. Day Senior High School",
+    "Passed %": 1,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 600,
+    "Region": "Northern",
+    "District": "Yendi Municipal",
+    "School": "Yendi Senior High School",
+    "Passed %": 1,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 601,
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "School": "Wulugu Senior High School",
+    "Passed %": 1,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 602,
+    "Region": "Upper East",
+    "District": "Kasena-Nankani West",
+    "School": "Paga Senior High School",
+    "Passed %": 1,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 603,
+    "Region": "Northern",
+    "District": "Tatale",
+    "School": "Sanguli E.P. Agric Senior High/Tech School",
+    "Passed %": 1,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 604,
+    "Region": "Upper West",
+    "District": "Lambusie-Karni",
+    "School": "Piina Senior High School",
+    "Passed %": 1,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 605,
+    "Region": "Upper East",
+    "District": "Kasena-Nankani Municipal",
+    "School": "Awe Senior High/Tech School",
+    "Passed %": 1,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 606,
+    "Region": "Northern",
+    "District": "Zabzugu",
+    "School": "Zabzugu Senior High School",
+    "Passed %": 1,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 607,
+    "Region": "Upper East",
+    "District": "Bongo",
+    "School": "Zorkor Senior High School",
+    "Passed %": 1,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 608,
+    "Region": "Ashanti",
+    "District": "Amansie West",
+    "School": "Esaase Bontefufuo Senior High/Tech School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 609,
+    "Region": "North East",
+    "District": "Bunkrupgu-Yunguo",
+    "School": "Bunkpurugu Senior High/Tech School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 610,
+    "Region": "North East",
+    "District": "East Mamprusi",
+    "School": "Gambaga Girls Senior High School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 611,
+    "Region": "Upper East",
+    "District": "Kasena-Nankani West",
+    "School": "Chiana Senior High School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 612,
+    "Region": "Upper East",
+    "District": "Kasena-Nankani West",
+    "School": "Sirigu Senior High School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 613,
+    "Region": "Upper East",
+    "District": "Builsa South",
+    "School": "Fumbisi Senior High School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 614,
+    "Region": "Northern",
+    "District": "Yendi Municipal",
+    "School": "Dagbon State Senior High/Tech School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 615,
+    "Region": "Northern",
+    "District": "Gushegu",
+    "School": "Gushegu Senior High School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 616,
+    "Region": "Central",
+    "District": "Gomoa West",
+    "School": "College Of Music Senior High School, Mozano",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 617,
+    "Region": "Central",
+    "District": "Ajumako/Enyan/Esiam",
+    "School": "Enyan Maim Comm. Day Senior High School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 618,
+    "Region": "Central",
+    "District": "Gomoa Central",
+    "School": "Ogyeedom Comm. Senior High/Tech School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 619,
+    "Region": "Eastern",
+    "District": "Afram Plains (Kwahu South)",
+    "School": "Maame Krobo Comm. Senior High School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 620,
+    "Region": "North East",
+    "District": "Bunkrupgu-Yunguo",
+    "School": "Nakpanduri Senior High School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 621,
+    "Region": "North East",
+    "District": "Mamprugu Moaduri",
+    "School": "Yagaba Senior High School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 622,
+    "Region": "Northern",
+    "District": "Kumbungu",
+    "School": "Kumbungu Senior High School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 623,
+    "Region": "Savannah",
+    "District": "Bole",
+    "School": "Bamboi Comm. Senior High School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 624,
+    "Region": "Savannah",
+    "District": "Central Gonja",
+    "School": "Buipe Senior High School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 625,
+    "Region": "Savannah",
+    "District": "Bole",
+    "School": "St. Anthony Of Padua Senior High/Tech School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 626,
+    "Region": "Upper East",
+    "District": "Bongo",
+    "School": "Azeem-Namoa Senior High/Tech School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 627,
+    "Region": "Upper East",
+    "District": "Kasena-Nankani West",
+    "School": "Nabango Senior High School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 628,
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "School": "Bolga Sherigu Comm. Senior High School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 629,
+    "Region": "Upper East",
+    "District": "Talensi",
+    "School": "Tongo Senior High/Tech School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 630,
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "School": "Wiaga Comm. Senior High School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 631,
+    "Region": "Upper West",
+    "District": "Lawra",
+    "School": "Birifoh Senior High School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 632,
+    "Region": "Upper West",
+    "District": "Lambusie-Karni",
+    "School": "Lambussie Comm. Senior High School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 633,
+    "Region": "Upper West",
+    "District": "Wa East",
+    "School": "Loggu Comm. Day Senior High School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 634,
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "School": "Northern Star Senior High School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 635,
+    "Region": "Upper West",
+    "District": "Nadowli/Kaleo",
+    "School": "Sombo Senior High School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 636,
+    "Region": "Upper West",
+    "District": "Nadowli",
+    "School": "St. Augustine Senior High/Tech School, Saan Charikpong",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  },
+  {
+    "S.N": 637,
+    "Region": "Upper West",
+    "District": "Nadowli",
+    "School": "Takpo Senior High School",
+    "Passed %": 0,
+    "Residency": "Day/Boarding",
+    "Gender": "Mixed",
+    "Email": ""
+  }
+]

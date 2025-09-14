@@ -1,0 +1,1189 @@
+[
+  {
+    "id": 1,
+    "scholarship_name": "Ghana Government Scholarship",
+    "sponsor": "Government of Ghana",
+    "category": "Government",
+    "level": "Undergraduate & Postgraduate",
+    "description": "The Ghana Government Scholarship, administered by the Ghana Scholarships Secretariat, offers financial assistance to brilliant but needy Ghanaian students pursuing tertiary education. The scholarship supports both local and international studies in various disciplines, aiming to develop human capital for national development.",
+    "application_deadline": "Varies annually; typically between April and September. Specific dates are announced on the official portal.",
+    "eligibility_requirements": [
+      "Ghanaian citizen with a valid Ghana Card or national ID.",
+      "Gained admission and enrolled in an accredited tertiary institution (public or private) in Ghana or abroad.",
+      "Demonstrated academic merit (e.g., excellent WASSCE results for undergraduates).",
+      "Demonstrated financial need.",
+      "Not currently benefiting from any other government scholarship."
+    ],
+    "benefits": [
+      "Full or partial tuition fees.",
+      "Academic facility user fees.",
+      "Examination fees.",
+      "Library and ICT levies.",
+      "Residential/accommodation support (in some cases).",
+      "Monthly stipends for living expenses (for international studies).",
+      "Airfare for international studies."
+    ],
+    "application_process": [
+      "Visit the official application portal: [www.apply.scholarships.gov.gh](https://www.apply.scholarships.gov.gh/).",
+      "Create an account using a valid email address and phone number.",
+      "Complete the online application form with accurate personal, academic, and financial information.",
+      "Upload required documents: admission letter, academic transcripts, Ghana Card, passport-sized photo, proof of financial need.",
+      "Submit the application for district-level review.",
+      "Attend a district-level interview if shortlisted.",
+      "Await notification of award status via SMS, email, or the application portal.",
+      "Successful applicants will receive electronic award letters and instructions for fund disbursement."
+    ],
+    "website_or_contact": "https://www.scholarships.gov.gh/",
+    "amount": "Varies based on program and study location; typically covers full tuition and additional allowances.",
+    "application_url": "https://www.apply.scholarships.gov.gh/"
+  },
+
+  {
+    "id": 2,
+    "scholarship_name": "GNPC Foundation Local Scholarship",
+    "sponsor": "Ghana National Petroleum Corporation (GNPC)",
+    "category": "Corporate",
+    "level": "Undergraduate & Postgraduate",
+    "description": "The GNPC Foundation Local Scholarship aims to develop and supply relevant skills for the rapid development of Ghana's nascent petroleum industry. The scholarship supports brilliant but needy Ghanaian students pursuing undergraduate and postgraduate degrees in various fields at accredited public tertiary institutions in Ghana.",
+    "application_deadline": "May 7 – May 31, 2024",
+    "eligibility_requirements": [
+      "Ghanaian citizen with a valid Ghana Card or national ID.",
+      "Gained admission to pursue an undergraduate or postgraduate degree program in any GTEC accredited tertiary institution in Ghana.",
+      "Not currently benefiting from any other scholarship scheme.",
+      "For undergraduate applicants: credit passes (A1–C6) in six WASSCE/SSSCE subjects, including core subjects (English Language, Mathematics, Integrated Science or Social Studies) and relevant electives.",
+      "Teachers and lecturers at technical institutions pursuing STEM and TVET programs are eligible.",
+      "Nursing Training Colleges and Colleges of Education are not eligible."
+    ],
+    "benefits": [
+      "Full or partial tuition fees.",
+      "Accommodation and residential fees.",
+      "Living stipends for local students.",
+      "Book and learning materials allowance.",
+      "Other academic-related expenses."
+    ],
+    "application_process": [
+      "Visit the official application portal: [www.gnpcghana.com](https://www.gnpcghana.com/gnpc-foundation).",
+      "Create an account using a valid email address and phone number.",
+      "Complete the online application form with accurate personal, academic, and financial information.",
+      "Upload required documents: admission letter, academic transcripts, Ghana Card, passport-sized photo, proof of financial need.",
+      "Submit the application for review.",
+      "Shortlisted candidates will be contacted for interviews.",
+      "Successful applicants will receive electronic award letters and instructions for fund disbursement."
+    ],
+    "website_or_contact": "https://www.gnpcghana.com/gnpc-foundation",
+    "amount": "Varies based on program and study location; typically covers full tuition and additional allowances.",
+    "application_url": "https://www.gnpcghana.com/gnpc-foundation"
+  },
+  {
+    "id": 3,
+    "scholarship_name": "GNPC Foundation Local Scholarship",
+    "sponsor": "Ghana National Petroleum Corporation (GNPC)",
+    "category": "Corporate",
+    "level": "Undergraduate & Postgraduate",
+    "description": "The GNPC Foundation Local Scholarship aims to develop and supply relevant skills for the rapid development of Ghana's nascent petroleum industry. The scholarship supports brilliant but needy Ghanaian students pursuing undergraduate and postgraduate degrees in various fields at accredited public tertiary institutions in Ghana.",
+    "application_deadline": "May 7 – May 31, 2024",
+    "eligibility_requirements": [
+      "Ghanaian citizen with a valid Ghana Card or national ID.",
+      "Gained admission to pursue an undergraduate or postgraduate degree program in any GTEC accredited tertiary institution in Ghana.",
+      "Not currently benefiting from any other scholarship scheme.",
+      "For undergraduate applicants: credit passes (A1–C6) in six WASSCE/SSSCE subjects, including core subjects (English Language, Mathematics, Integrated Science or Social Studies) and relevant electives.",
+      "Teachers and lecturers at technical institutions pursuing STEM and TVET programs are eligible.",
+      "Nursing Training Colleges and Colleges of Education are not eligible."
+    ],
+    "benefits": [
+      "Full or partial tuition fees.",
+      "Accommodation and residential fees.",
+      "Living stipends for local students.",
+      "Book and learning materials allowance.",
+      "Other academic-related expenses."
+    ],
+    "application_process": [
+      "Visit the official application portal: [www.gnpcghana.com](https://www.gnpcghana.com/gnpc-foundation).",
+      "Create an account using a valid email address and phone number.",
+      "Complete the online application form with accurate personal, academic, and financial information.",
+      "Upload required documents: admission letter, academic transcripts, Ghana Card, passport-sized photo, proof of financial need.",
+      "Submit the application for review.",
+      "Shortlisted candidates will be contacted for interviews.",
+      "Successful applicants will receive electronic award letters and instructions for fund disbursement."
+    ],
+    "website_or_contact": "https://www.gnpcghana.com/gnpc-foundation",
+    "amount": "Varies based on program and study location; typically covers full tuition and additional allowances.",
+    "application_url": "https://www.gnpcghana.com/gnpc-foundation"
+  },
+  {
+    "id": 3,
+    "scholarship_name": "MTN Ghana Foundation Scholarship",
+    "sponsor": "MTN Ghana Foundation",
+    "category": "Corporate/NGO",
+    "level": "Undergraduate",
+    "description": "The MTN Ghana Foundation Scholarship provides financial assistance to brilliant but needy students enrolled in public tertiary institutions in Ghana. It aims to support students who demonstrate both academic excellence and financial need, empowering them to complete their undergraduate studies successfully.",
+    "application_deadline": "Annually, usually between April and May",
+    "eligibility_requirements": [
+      "Ghanaian citizen with a valid Ghana Card or national ID.",
+      "Enrolled in a public tertiary institution in Ghana.",
+      "Demonstrated academic excellence (minimum GPA of 3.0/4.0 or equivalent).",
+      "Demonstrated financial need.",
+      "Not currently benefiting from any other scholarship scheme."
+    ],
+    "benefits": [
+      "Full or partial tuition coverage.",
+      "Accommodation and living stipends.",
+      "Allowance for books and academic materials."
+    ],
+    "application_process": [
+      "Visit the MTN Ghana Foundation scholarship portal: [scholarship.mtn.com.gh](https://scholarship.mtn.com.gh/).",
+      "Register and create an account.",
+      "Complete the online application form with accurate personal, academic, and financial information.",
+      "Upload required documents: admission letter, academic transcripts, Ghana Card, passport photo, and proof of financial need.",
+      "Submit the application before the deadline.",
+      "Shortlisted candidates may be invited for interviews.",
+      "Successful applicants receive award letters with details on fund disbursement."
+    ],
+    "website_or_contact": "https://scholarship.mtn.com.gh",
+    "amount": "Varies depending on the program and financial need; typically covers tuition and allowances.",
+    "application_url": "https://scholarship.mtn.com.gh"
+  },
+  {
+    "id": 4,
+    "scholarship_name": "JEQ Foundation Scholarship",
+    "sponsor": "Joseph & Elizabeth Quansah (JEQ) Foundation",
+    "category": "NGO",
+    "level": "Undergraduate",
+    "description": "The JEQ Foundation Scholarship provides full tuition and housing support to academically outstanding but financially disadvantaged students enrolled in accredited colleges and universities in Ghana. Established in 2019, the foundation aims to empower students through education, mentorship, and career development opportunities.",
+    "application_deadline": "September 29, 2024",
+    "eligibility_requirements": [
+      "Ghanaian citizen enrolled in a recognized college or university in Ghana (online education excluded).",
+      "Minimum CGPA of 3.3 (Second-Class Upper Division).",
+      "For incoming students: must have graduated from Senior High School with at least 4As and 4Bs in the WAEC exams and obtained an official admission letter from an accredited institution.",
+      "Demonstrated financial need: combined monthly parental income less than 600 GHS or single-parent income less than 400 GHS.",
+      "Submission of official academic documents, including admission letter, transcript, tuition sheet, and housing fees.",
+      "Personal essay (300–500 words) and recent passport-sized photo.",
+      "Three (3) recommendation letters: two from current professors/lecturers and one from a non-family member.",
+      "For orphans: submission of death certificate and guardian documents."
+    ],
+    "benefits": [
+      "Full tuition and housing support for the duration of the undergraduate program.",
+      "Provision of laptops to selected students.",
+      "Academic advising, mentorship, and internship opportunities.",
+      "Encouragement of community service (minimum 15 hours per year) and future contributions to the foundation."
+    ],
+    "application_process": [
+      "Visit the official application portal: [jequansahfoundation.org/apply](https://www.jequansahfoundation.org/apply).",
+      "Complete the online application form with accurate personal, academic, and financial information.",
+      "Upload required documents: admission letter, academic transcripts, tuition and housing invoices, personal essay, passport-sized photo, and recommendation letters.",
+      "Email the application and documents to quansahfoundation@gmail.com on the same day of submission.",
+      "Deadline for submission: September 29, 2024.",
+      "Shortlisted candidates will be contacted in early November 2024."
+    ],
+    "website_or_contact": "https://www.jequansahfoundation.org/apply",
+    "amount": "Covers full tuition and housing fees; additional support includes laptop provision and academic resources.",
+    "application_url": "https://www.jequansahfoundation.org/apply"
+  },
+  {
+    "id": 5,
+    "scholarship_name": "Ghana Government Local Tertiary Scholarship",
+    "sponsor": "Ghana Government / Ghana Scholarship Secretariat",
+    "category": "Government",
+    "level": "Undergraduate & Postgraduate",
+    "description": "The Ghana Government Local Tertiary Scholarship, administered by the Ghana Scholarship Secretariat, provides financial assistance to brilliant but needy Ghanaian students enrolled in accredited public and private tertiary institutions within Ghana. The scholarship aims to reduce financial barriers to education and promote academic excellence.",
+    "application_deadline": "Annually, typically between June and July",
+    "eligibility_requirements": [
+      "Ghanaian citizen with a valid Ghana Card or national ID.",
+      "Enrolled in an accredited public or private tertiary institution in Ghana.",
+      "Demonstrated academic excellence and leadership potential.",
+      "Demonstrated financial need.",
+      "Not currently benefiting from any other scholarship scheme."
+    ],
+    "benefits": [
+      "Full or partial tuition coverage.",
+      "Accommodation and living stipends.",
+      "Allowance for books and academic materials."
+    ],
+    "application_process": [
+      "Obtain a registration code from your institution at the beginning of the academic year.",
+      "Download the application form from the Ghana Scholarship Secretariat website: [www.scholarships.gov.gh](https://scholarships.gov.gh/).",
+      "Complete the application form and obtain the necessary endorsements from your institution.",
+      "Submit the completed application form along with required documents to the Scholarships Secretariat through your institution.",
+      "Shortlisted candidates will be contacted for interviews.",
+      "Successful applicants will receive electronic award letters and instructions for fund disbursement."
+    ],
+    "website_or_contact": "https://scholarships.gov.gh/",
+    "amount": "Varies based on program and financial need; typically covers tuition and allowances.",
+    "application_url": "https://scholarships.gov.gh/"
+  },
+  {
+    "id": 6,
+    "scholarship_name": "Valco Educational Trust Scholarship",
+    "sponsor": "Valco (Volta Aluminum Company) Educational Trust",
+    "category": "Corporate",
+    "level": "Undergraduate",
+    "description": "The Valco Educational Trust Scholarship supports Ghanaian students pursuing undergraduate degrees in science, technology, engineering, and mathematics (STEM) fields. The scholarship aims to empower students from economically disadvantaged backgrounds and encourage careers in industries aligned with national development goals.",
+    "application_deadline": "Annually, typically June 30",
+    "eligibility_requirements": [
+      "Ghanaian citizen with a valid Ghana Card or national ID.",
+      "Admitted to an accredited public or private tertiary institution in Ghana.",
+      "Pursuing a STEM-related program.",
+      "Minimum GPA of 3.0/4.0 or equivalent.",
+      "Demonstrated financial need."
+    ],
+    "benefits": [
+      "Full or partial tuition coverage.",
+      "Monthly living allowance.",
+      "Books and learning materials allowance."
+    ],
+    "application_process": [
+      "Visit the Valco Educational Trust scholarship portal or contact the HR department at Valco for application forms.",
+      "Complete the application form with accurate personal, academic, and financial information.",
+      "Attach required documents: admission letter, academic transcripts, Ghana Card, passport photo, and proof of financial need.",
+      "Submit the application before the deadline.",
+      "Shortlisted candidates may be invited for interviews.",
+      "Successful applicants will receive award letters with instructions for fund disbursement."
+    ],
+    "website_or_contact": "https://www.valco.com.gh/",
+    "amount": "Varies depending on the program and financial need; typically covers tuition and allowances.",
+    "application_url": "https://www.valco.com.gh/"
+  },
+  {
+    "id": 7,
+    "scholarship_name": "Valco Trust Fund Scholarship",
+    "sponsor": "Valco Trust Fund",
+    "category": "Corporate",
+    "level": "Undergraduate & Postgraduate",
+    "description": "The Valco Trust Fund Scholarship is a corporate initiative aimed at supporting Ghanaian students pursuing undergraduate and postgraduate degrees in various fields. The scholarship seeks to empower students from economically disadvantaged backgrounds and contribute to the development of the nation's human capital.",
+    "application_deadline": "Annually, typically between June and July",
+    "eligibility_requirements": [
+      "Ghanaian citizen with a valid Ghana Card or national ID.",
+      "Admitted to an accredited public or private tertiary institution in Ghana.",
+      "Demonstrated academic excellence and leadership potential.",
+      "Demonstrated financial need.",
+      "Not currently benefiting from any other scholarship scheme."
+    ],
+    "benefits": [
+      "Full or partial tuition coverage.",
+      "Accommodation and living stipends.",
+      "Allowance for books and academic materials."
+    ],
+    "application_process": [
+      "Obtain an application form from the Valco Trust Fund office or download it from the official website.",
+      "Complete the application form with accurate personal, academic, and financial information.",
+      "Attach required documents: admission letter, academic transcripts, Ghana Card, passport photo, and proof of financial need.",
+      "Submit the completed application form along with required documents to the Valco Trust Fund office.",
+      "Shortlisted candidates will be contacted for interviews.",
+      "Successful applicants will receive award letters and instructions for fund disbursement."
+    ],
+    "website_or_contact": "https://valcotrustfund.gov.gh/",
+    "amount": "Varies based on program and financial need; typically covers tuition and allowances.",
+    "application_url": "https://valcotrustfund.gov.gh/"
+  },
+  {
+    "id": 9,
+    "scholarship_name": "Bryan Acheampong Foundation (BAF) Scholarship",
+    "sponsor": "Bryan Acheampong Foundation",
+    "category": "Private/Foundation",
+    "level": "Undergraduate & Vocational",
+    "description": "The Bryan Acheampong Foundation (BAF) Scholarship is designed to support brilliant but needy students pursuing tertiary education and vocational training in Ghana. The foundation focuses on community development initiatives, providing financial assistance, mentorship, and resources to empower students from underserved populations.",
+    "application_deadline": "Annually, typically between June and July",
+    "eligibility_requirements": [
+      "Ghanaian citizen with a valid Ghana Card or national ID.",
+      "Admitted to an accredited public or private tertiary institution in Ghana.",
+      "Demonstrated academic excellence and leadership potential.",
+      "Demonstrated financial need.",
+      "Not currently benefiting from any other scholarship scheme."
+    ],
+    "benefits": [
+      "Full or partial tuition coverage.",
+      "Accommodation and living stipends.",
+      "Allowance for books and academic materials.",
+      "Mentorship and career guidance."
+    ],
+    "application_process": [
+      "Obtain an application form from the Bryan Acheampong Foundation office or download it from the official website.",
+      "Complete the application form with accurate personal, academic, and financial information.",
+      "Attach required documents: admission letter, academic transcripts, Ghana Card, passport photo, and proof of financial need.",
+      "Submit the completed application form along with required documents to the Bryan Acheampong Foundation office.",
+      "Shortlisted candidates will be contacted for interviews.",
+      "Successful applicants will receive award letters and instructions for fund disbursement."
+    ],
+    "website_or_contact": "https://bryanacheampongfoundation.org/",
+    "amount": "Varies based on program and financial need; typically covers tuition and allowances.",
+    "application_url": "https://bryanacheampongfoundation.org/"
+  },
+  {
+    "id": 10,
+    "scholarship_name": "Gold Fields Ghana Foundation Scholarship",
+    "sponsor": "Gold Fields Ghana Foundation",
+    "category": "Corporate",
+    "level": "Undergraduate",
+    "description": "The Gold Fields Ghana Foundation Scholarship is designed to support brilliant but needy students pursuing undergraduate degrees in various fields. The scholarship aims to empower students from economically disadvantaged backgrounds and contribute to the development of the nation's human capital.",
+    "application_deadline": "Annually, typically between May and June",
+    "eligibility_requirements": [
+      "Ghanaian citizen with a valid Ghana Card or national ID.",
+      "Admitted to an accredited public or private tertiary institution in Ghana.",
+      "Demonstrated academic excellence and leadership potential.",
+      "Demonstrated financial need.",
+      "Not currently benefiting from any other scholarship scheme."
+    ],
+    "benefits": [
+      "Full or partial tuition coverage.",
+      "Accommodation and living stipends.",
+      "Allowance for books and academic materials."
+    ],
+    "application_process": [
+      "Obtain an application form from the Gold Fields Ghana Foundation office or download it from the official website.",
+      "Complete the application form with accurate personal, academic, and financial information.",
+      "Attach required documents: admission letter, academic transcripts, Ghana Card, passport photo, and proof of financial need.",
+      "Submit the completed application form along with required documents to the Gold Fields Ghana Foundation office.",
+      "Shortlisted candidates will be contacted for interviews.",
+      "Successful applicants will receive award letters and instructions for fund disbursement."
+    ],
+    "website_or_contact": "https://www.goldfieldsghana.com/foundation",
+    "amount": "Varies based on program and financial need; typically covers tuition and allowances.",
+    "application_url": "https://www.goldfieldsghana.com/foundation"
+  },
+  {
+    "id": 11,
+    "scholarship_name": "Ghana Scholarship Secretariat – Local Tertiary Scholarship",
+    "sponsor": "Government of Ghana",
+    "category": "Government",
+    "level": "Undergraduate",
+    "description": "The Local Tertiary Scholarship, administered by the Ghana Scholarship Secretariat, is designed to support brilliant but needy Ghanaian students pursuing undergraduate programs at accredited public tertiary institutions in Ghana. The scholarship aims to alleviate financial barriers and promote academic excellence among deserving students.",
+    "application_deadline": "Annually, typically between April and May",
+    "eligibility_requirements": [
+      "Ghanaian citizen with a valid Ghana Card or national ID.",
+      "Admitted to an accredited public tertiary institution in Ghana.",
+      "Demonstrated academic excellence.",
+      "Demonstrated financial need.",
+      "Not currently benefiting from any other scholarship scheme."
+    ],
+    "benefits": [
+      "Full or partial tuition coverage.",
+      "Accommodation and living stipends."
+    ],
+    "application_process": [
+      "Visit the official scholarship portal: [www.apply.scholarships.gov.gh](https://www.apply.scholarships.gov.gh).",
+      "Create an account using a valid email address and phone number.",
+      "Complete the online application form with accurate personal, academic, and financial information.",
+      "Attach required documents: admission letter, academic transcripts, Ghana Card, passport photo, and proof of financial need.",
+      "Submit the completed application form.",
+      "Shortlisted candidates will be contacted for interviews.",
+      "Successful applicants will receive award letters and instructions for fund disbursement."
+    ],
+    "website_or_contact": "https://www.apply.scholarships.gov.gh",
+    "amount": "Varies based on program and financial need; typically covers tuition and allowances.",
+    "application_url": "https://www.apply.scholarships.gov.gh"
+  },
+  {
+    "id": 13,
+    "scholarship_name": "Izwe Ghana Scholarship Fund",
+    "sponsor": "Izwe Savings and Loans",
+    "category": "Private Company",
+    "level": "Undergraduate",
+    "description": "The Izwe Ghana Scholarship Fund is designed to support Senior High School (SHS) graduates with excellent academic performance but limited financial resources. The scholarship aims to empower these students to pursue undergraduate or equivalent tertiary programs at any public tertiary institution in Ghana, thereby contributing to the development of the nation's human capital.",
+    "application_deadline": "Annually, typically between June and July",
+    "eligibility_requirements": [
+      "Ghanaian citizen with a valid Ghana Card or national ID.",
+      "Excellent academic performance in SHS examinations.",
+      "Demonstrated financial need.",
+      "Admission to a public tertiary institution in Ghana."
+    ],
+    "benefits": [
+      "Full tuition coverage.",
+      "Accommodation and living stipends.",
+      "Allowance for books and academic materials."
+    ],
+    "application_process": [
+      "Obtain an application form from the Izwe Savings and Loans office or download it from the official website.",
+      "Complete the application form with accurate personal, academic, and financial information.",
+      "Attach required documents: SHS certificates, admission letter, Ghana Card, passport photo, and proof of financial need.",
+      "Submit the completed application form along with required documents to the Izwe Savings and Loans office.",
+      "Shortlisted candidates will be contacted for interviews.",
+      "Successful applicants will receive award letters and instructions for fund disbursement."
+    ],
+    "website_or_contact": "https://www.izweghana.com/scholarship-terms-and-conditions/",
+    "amount": "Varies based on program and financial need; typically covers tuition and allowances.",
+    "application_url": "https://www.izweghana.com/scholarship-terms-and-conditions/"
+  },
+  {
+    "id": 14,
+    "scholarship_name": "KGL Foundation Scholarship",
+    "sponsor": "KGL Group",
+    "category": "Private Company",
+    "level": "Undergraduate, Vocational, and Tertiary",
+    "description": "The KGL Foundation Scholarship is an educational initiative by KGL Group aimed at providing financial support to students at various educational levels, including basic, secondary, tertiary, and vocational education. The scholarship seeks to empower students from diverse backgrounds to achieve their academic and professional goals, thereby contributing to the development of Ghana's human capital.",
+    "application_deadline": "Annually, typically between July and August",
+    "eligibility_requirements": [
+      "Ghanaian citizen with a valid Ghana Card or national ID.",
+      "Demonstrated academic excellence.",
+      "Admission to an accredited educational institution in Ghana.",
+      "Demonstrated financial need."
+    ],
+    "benefits": [
+      "Full or partial tuition coverage.",
+      "Stipends for accommodation and living expenses.",
+      "Allowance for books and academic materials."
+    ],
+    "application_process": [
+      "Obtain an application form from the KGL Foundation office or download it from the official website.",
+      "Complete the application form with accurate personal, academic, and financial information.",
+      "Attach required documents: admission letter, academic transcripts, Ghana Card, passport photo, and proof of financial need.",
+      "Submit the completed application form along with required documents to the KGL Foundation office.",
+      "Shortlisted candidates will be contacted for interviews.",
+      "Successful applicants will receive award letters and instructions for fund disbursement."
+    ],
+    "website_or_contact": "https://kglfoundation.org/",
+    "amount": "Varies based on program and financial need; typically covers tuition and allowances.",
+    "application_url": "https://kglfoundation.org/assets/doc/KGL-Foundation-Scholarship.html"
+  },
+  {
+    "id": 15,
+    "scholarship_name": "Ingressive for Good (I4G) Scholarship",
+    "sponsor": "Ingressive for Good",
+    "category": "Private Company / NGO",
+    "level": "Undergraduate",
+    "description": "The Ingressive for Good (I4G) Scholarship is designed to support financially disadvantaged students pursuing degrees in technology-related fields. The scholarship aims to empower these students by providing financial assistance, mentorship, and access to a community of tech professionals, thereby enhancing their opportunities in the tech industry.",
+    "application_deadline": "Annually, typically between July and August",
+    "eligibility_requirements": [
+      "Ghanaian citizen with a valid Ghana Card or national ID.",
+      "Enrolled in an accredited tertiary institution in Ghana.",
+      "Pursuing a degree in a technology-related field.",
+      "Demonstrated financial need."
+    ],
+    "benefits": [
+      "Partial tuition coverage.",
+      "Laptop provision for academic use.",
+      "Access to mentorship and networking opportunities in the tech industry."
+    ],
+    "application_process": [
+      "Visit the official I4G scholarship portal: [www.ingressive.org](https://www.ingressive.org).",
+      "Create an account using a valid email address and phone number.",
+      "Complete the online application form with accurate personal, academic, and financial information.",
+      "Attach required documents: admission letter, academic transcripts, Ghana Card, passport photo, and proof of financial need.",
+      "Submit the completed application form.",
+      "Shortlisted candidates will be contacted for interviews.",
+      "Successful applicants will receive award letters and instructions for fund disbursement."
+    ],
+    "website_or_contact": "https://www.ingressive.org",
+    "amount": "Varies based on program and financial need; typically includes partial tuition coverage and a laptop.",
+    "application_url": "https://www.ingressive.org/scholarship"
+  },
+  {
+    "id": 16,
+    "scholarship_name": "Expose NGO Scholarship Program",
+    "sponsor": "Expose NGO",
+    "category": "NGO",
+    "level": "Undergraduate",
+    "description": "Expose NGO offers a scholarship program aimed at providing tuition support to graduates from tertiary institutions. The program focuses on empowering recipients to launch their own independent businesses, thereby fostering entrepreneurship and economic independence.",
+    "application_deadline": "Annually, typically between June and July",
+    "eligibility_requirements": [
+      "Ghanaian citizen with a valid Ghana Card or national ID.",
+      "Graduate from an accredited tertiary institution in Ghana.",
+      "Demonstrated entrepreneurial intent and business acumen.",
+      "Strong academic performance and leadership potential."
+    ],
+    "benefits": [
+      "Full tuition coverage for postgraduate studies.",
+      "Seed funding for business ventures.",
+      "Mentorship and business development support."
+    ],
+    "application_process": [
+      "Visit the official Expose NGO scholarship portal: [www.expose.ngo](https://www.expose.ngo/ghana).",
+      "Create an account using a valid email address and phone number.",
+      "Complete the online application form with accurate personal, academic, and business information.",
+      "Attach required documents: academic transcripts, business proposal, Ghana Card, passport photo, and proof of entrepreneurial intent.",
+      "Submit the completed application form.",
+      "Shortlisted candidates will be contacted for interviews.",
+      "Successful applicants will receive award letters and instructions for fund disbursement."
+    ],
+    "website_or_contact": "https://www.expose.ngo/ghana",
+    "amount": "Varies based on program and financial need; typically includes full tuition coverage and seed funding for business ventures.",
+    "application_url": "https://www.expose.ngo/ghana"
+  },
+  {
+    "id": 17,
+    "scholarship_name": "Gold Fields Ghana Foundation Scholarship",
+    "sponsor": "Gold Fields Ghana Limited",
+    "category": "Private Company",
+    "level": "Undergraduate and Graduate",
+    "description": "The Gold Fields Ghana Foundation Scholarship is designed to support students from host communities of Gold Fields Ghana's mining operations in Tarkwa and Damang. The scholarship aims to provide financial assistance to deserving students pursuing undergraduate and graduate programs, thereby contributing to the development of human capital in the mining regions.",
+    "application_deadline": "Annually, typically between April and May",
+    "eligibility_requirements": [
+      "Ghanaian citizen from Tarkwa or Damang communities.",
+      "Demonstrated academic excellence.",
+      "Admission to an accredited tertiary institution in Ghana.",
+      "Financial need."
+    ],
+    "benefits": [
+      "Full or partial tuition coverage.",
+      "Accommodation and living allowances.",
+      "Access to internship and employment opportunities within Gold Fields Ghana."
+    ],
+    "application_process": [
+      "Obtain an application form from the Gold Fields Ghana Foundation office or download it from the official website.",
+      "Complete the application form with accurate personal, academic, and financial information.",
+      "Attach required documents: admission letter, academic transcripts, proof of community residency, Ghana Card, passport photo, and proof of financial need.",
+      "Submit the completed application form along with required documents to the Gold Fields Ghana Foundation office.",
+      "Shortlisted candidates will be contacted for interviews.",
+      "Successful applicants will receive award letters and instructions for fund disbursement."
+    ],
+    "website_or_contact": "https://en.wikipedia.org/wiki/Gold_Fields_Ghana_Foundation",
+    "amount": "Varies based on program and financial need; typically covers tuition, accommodation, and allowances.",
+    "application_url": "https://en.wikipedia.org/wiki/Gold_Fields_Ghana_Foundation"
+  },
+  {
+    "id": 18,
+    "scholarship_name": "Young Achievers Foundation Ghana (YAF Ghana) Scholars Program",
+    "sponsor": "Young Achievers Foundation Ghana",
+    "category": "NGO",
+    "level": "Undergraduate",
+    "description": "The YAF Ghana Scholars Program identifies and supports promising young leaders, enabling them to gain full scholarships to study at top colleges and universities around the world. The program allows scholars to pursue their educational goals and gain access to a supportive network of peers, mentors, and professional opportunities, fostering personal growth and leadership development.",
+    "application_deadline": "Annually, typically between March and April",
+    "eligibility_requirements": [
+      "Ghanaian citizen with a valid Ghana Card or national ID.",
+      "Demonstrated academic excellence.",
+      "Active involvement in community service and leadership activities.",
+      "Financial need."
+    ],
+    "benefits": [
+      "Full tuition coverage for undergraduate studies.",
+      "Accommodation and living allowances.",
+      "Access to mentorship and professional development opportunities."
+    ],
+    "application_process": [
+      "Visit the official YAF Ghana scholarship portal: [www.yafghana.org/apply](https://yafghana.org/apply/).",
+      "Complete the online application form with accurate personal, academic, and financial information.",
+      "Attach required documents: academic transcripts, proof of community involvement, Ghana Card, passport photo, and proof of financial need.",
+      "Submit the completed application form.",
+      "Shortlisted candidates will be contacted for interviews.",
+      "Successful applicants will receive award letters and instructions for fund disbursement."
+    ],
+    "website_or_contact": "https://yafghana.org/apply/",
+    "amount": "Varies based on program and financial need; typically includes full tuition coverage and allowances.",
+    "application_url": "https://yafghana.org/apply/"
+  },
+  {
+    "id": 19,
+    "scholarship_name": "Bloomwit Scholarship Program",
+    "sponsor": "Bloomwit",
+    "category": "Private Company",
+    "level": "Undergraduate and Graduate",
+    "description": "Bloomwit offers fully funded scholarships to young African professionals and undergraduate students, focusing on technology and strategic writing. The scholarship program provides comprehensive training in key areas such as content marketing using design thinking, conversion-driven copywriting, UX writing, and strategic building (SEO). Designed to empower emerging African writers, the initiative aims to equip participants with in-demand skills for the modern digital economy.",
+    "application_deadline": "Annually, typically between March and April",
+    "eligibility_requirements": [
+      "African citizen with a valid national ID.",
+      "Demonstrated interest or background in technology, writing, or digital marketing.",
+      "Enrollment in an accredited undergraduate or graduate program, or recent graduate seeking to enhance skills.",
+      "Strong academic performance and leadership potential."
+    ],
+    "benefits": [
+      "Full tuition coverage for relevant courses or programs.",
+      "Access to mentorship and professional development opportunities.",
+      "Participation in workshops and seminars focused on AI and business growth.",
+      "Membership in a community of emerging African writers."
+    ],
+    "application_process": [
+      "Visit the official Bloomwit scholarship portal: [www.bloomwit.com/scholarships](https://www.bloomwit.com/scholarships).",
+      "Complete the online application form with accurate personal, academic, and professional information.",
+      "Attach required documents: academic transcripts, proof of enrollment or graduation, national ID, passport photo, and a statement of purpose.",
+      "Submit the completed application form.",
+      "Shortlisted candidates will be contacted for interviews.",
+      "Successful applicants will receive award letters and instructions for participation."
+    ],
+    "website_or_contact": "https://www.bloomwit.com/scholarships",
+    "amount": "Varies based on program and financial need; typically includes full tuition coverage and additional benefits.",
+    "application_url": "https://www.bloomwit.com/scholarships"
+  },
+  {
+    "id": 20,
+    "scholarship_name": "Ghana Innov8 Scholarship Program",
+    "sponsor": "Ghana Innov8",
+    "category": "Private Company",
+    "level": "Undergraduate and Graduate",
+    "description": "The Ghana Innov8 Scholarship Program is designed to support outstanding Ghanaian students in their academic pursuits. Inspired by the philosophy of 'Sankofa,' which emphasizes learning from the past to build a brighter future, this program seeks to empower the next generation of leaders through financial assistance and mentorship.",
+    "application_deadline": "Annually, typically between March and April",
+    "eligibility_requirements": [
+      "Ghanaian citizen with a valid national ID.",
+      "Demonstrated academic excellence.",
+      "Active involvement in community service and leadership activities.",
+      "Financial need."
+    ],
+    "benefits": [
+      "Full tuition coverage for undergraduate or graduate studies.",
+      "Access to mentorship and professional development opportunities.",
+      "Participation in workshops and seminars focused on leadership and innovation."
+    ],
+    "application_process": [
+      "Visit the official Ghana Innov8 scholarship portal: [www.ghanainnov8.org/scholarship](https://ghanainnov8.org/initiatives/scholarship/).",
+      "Complete the online application form with accurate personal, academic, and financial information.",
+      "Attach required documents: academic transcripts, proof of community involvement, national ID, passport photo, and proof of financial need.",
+      "Submit the completed application form.",
+      "Shortlisted candidates will be contacted for interviews.",
+      "Successful applicants will receive award letters and instructions for fund disbursement."
+    ],
+    "website_or_contact": "https://ghanainnov8.org/initiatives/scholarship/",
+    "amount": "Each scholarship is valued at $500, which can be utilized towards various educational expenses, including purchasing essential educational materials, attending educational conferences, covering travel expenses for academic engagements, and obtaining certifications that contribute to professional development.",
+    "application_url": "https://ghanainnov8.org/initiatives/scholarship/"
+  },
+  {
+    "id": 21,
+    "scholarship_name": "Drive to Inspire Africa (DIA) Scholarship Program",
+    "sponsor": "Drive to Inspire Africa (DIA)",
+    "category": "NGO",
+    "level": "Undergraduate and Graduate",
+    "description": "Drive to Inspire Africa (DIA) is a Ghanaian non-governmental organization dedicated to empowering young Africans through education, mentorship, and leadership development. The DIA Scholarship Program aims to support outstanding students pursuing undergraduate and graduate studies in various fields, providing them with financial assistance and access to mentorship opportunities.",
+    "application_deadline": "Annually, typically between May and June",
+    "eligibility_requirements": [
+      "Ghanaian citizen with a valid national ID.",
+      "Demonstrated academic excellence.",
+      "Active involvement in community service and leadership activities.",
+      "Financial need."
+    ],
+    "benefits": [
+      "Full or partial tuition coverage.",
+      "Access to mentorship and leadership development programs.",
+      "Opportunities for internships and career development."
+    ],
+    "application_process": [
+      "Visit the official DIA scholarship portal: [www.diatoinspire.org/scholarship](https://www.diatoinspire.org/scholarship).",
+      "Complete the online application form with accurate personal, academic, and financial information.",
+      "Attach required documents: academic transcripts, proof of community involvement, national ID, passport photo, and proof of financial need.",
+      "Submit the completed application form.",
+      "Shortlisted candidates will be contacted for interviews.",
+      "Successful applicants will receive award letters and instructions for fund disbursement."
+    ],
+    "website_or_contact": "https://www.diatoinspire.org/scholarship",
+    "amount": "Varies based on program and financial need; typically includes full or partial tuition coverage and additional benefits.",
+    "application_url": "https://www.diatoinspire.org/scholarship"
+  },
+  {
+    "id": 22,
+    "scholarship_name": "GNPC Foundation STEM Scholarship",
+    "sponsor": "GNPC Foundation",
+    "category": "Corporate / NGO",
+    "level": "Undergraduate",
+    "description": "The GNPC Foundation STEM Scholarship targets brilliant but financially constrained students pursuing undergraduate degrees in Science, Technology, Engineering, and Mathematics (STEM) disciplines. The scholarship aims to build local capacity in key sectors of Ghana's economy and develop future leaders in STEM fields.",
+    "application_deadline": "Annually, usually between March and April",
+    "eligibility_requirements": [
+      "Ghanaian citizen with a valid national ID.",
+      "Admitted to an accredited tertiary institution in Ghana.",
+      "Pursuing a STEM-related undergraduate degree.",
+      "Demonstrated financial need.",
+      "Not receiving any other major scholarship."
+    ],
+    "benefits": [
+      "Full tuition coverage for the duration of the program.",
+      "Monthly living stipends.",
+      "Book and learning materials allowance.",
+      "Access to mentorship programs and internships."
+    ],
+    "application_process": [
+      "Visit the official GNPC Foundation portal: [www.gnpcfoundation.org](https://www.gnpcfoundation.org).",
+      "Create an account and complete the online application form.",
+      "Upload required documents: admission letter, academic transcripts, national ID, passport photo, and proof of financial need.",
+      "Submit the completed application form before the deadline.",
+      "Shortlisted candidates may be interviewed.",
+      "Successful applicants will receive award letters and instructions for fund disbursement."
+    ],
+    "website_or_contact": "https://www.gnpcfoundation.org",
+    "amount": "Varies; typically covers full tuition, stipends, and academic materials.",
+    "application_url": "https://www.gnpcfoundation.org/scholarships"
+  },
+  {
+    "id": 25,
+    "scholarship_name": "University of Ghana – Toyota Ghana Scholarship",
+    "sponsor": "Toyota Ghana Company Limited",
+    "category": "Corporate",
+    "level": "Undergraduate",
+    "description": "The Toyota Ghana Scholarship supports students in the School of Engineering Sciences at the University of Ghana. It promotes excellence in engineering education and fosters industry-academic collaboration.",
+    "application_deadline": "Varies annually; typically announced in March",
+    "eligibility_requirements": [
+      "Ghanaian citizen",
+      "Enrolled in the School of Engineering Sciences",
+      "Demonstrated academic excellence",
+      "Financial need"
+    ],
+    "benefits": [
+      "Full tuition coverage",
+      "Monthly stipends",
+      "Internship opportunities with Toyota Ghana"
+    ],
+    "application_process": [
+      "Submit an online application via the University of Ghana Financial Aid Portal",
+      "Provide academic transcripts, proof of enrollment, and financial need documentation"
+    ],
+    "website_or_contact": "https://apply.ug.edu.gh/finaid/",
+    "amount": "Varies; typically full tuition and stipends",
+    "application_url": "https://apply.ug.edu.gh/finaid/"
+  },
+  {
+    "id": 26,
+    "scholarship_name": "University of Cape Coast – TAGDev 2.0 Scholarship",
+    "sponsor": "University of Cape Coast (UCC)",
+    "category": "University",
+    "level": "Undergraduate",
+    "description": "The TAGDev 2.0 Scholarship supports economically disadvantaged students pursuing BSc Agriculture and Agrifood Systems at UCC, promoting sustainable development through education in agriculture.",
+    "application_deadline": "Varies annually; typically announced in March",
+    "eligibility_requirements": [
+      "Ghanaian citizen",
+      "Enrolled in BSc Agriculture or Agrifood Systems program at UCC",
+      "Demonstrated financial need",
+      "Female applicants, refugees, internally displaced persons, and persons with disabilities are highly encouraged to apply"
+    ],
+    "benefits": [
+      "Full tuition coverage",
+      "Accommodation support",
+      "Living stipends"
+    ],
+    "application_process": [
+      "Complete the online application form on the UCC Scholarship Portal",
+      "Submit required documents including academic transcripts and proof of financial need"
+    ],
+    "website_or_contact": "https://apply-stufso.ucc.edu.gh/",
+    "amount": "Varies; typically full tuition, accommodation, and stipends",
+    "application_url": "https://apply-stufso.ucc.edu.gh/"
+  },
+  {
+    "id": 27,
+    "scholarship_name": "University of Education, Winneba – Vice-Chancellor's Scholarship Fund",
+    "sponsor": "University of Education, Winneba (UEW)",
+    "category": "University",
+    "level": "Undergraduate",
+    "description": "The Vice-Chancellor's Scholarship Fund supports brilliant but needy UEW students, promoting academic excellence and reducing financial barriers to education.",
+    "application_deadline": "March 31, 2025",
+    "eligibility_requirements": [
+      "Ghanaian citizen",
+      "Enrolled as an undergraduate student at UEW",
+      "Demonstrated academic excellence",
+      "Financial need"
+    ],
+    "benefits": [
+      "Full tuition coverage",
+      "Accommodation support",
+      "Living stipends"
+    ],
+    "application_process": [
+      "Submit completed application forms to the Dean of Faculty or Principal, CODeL",
+      "Include required documents such as academic transcripts and proof of financial need"
+    ],
+    "website_or_contact": "https://uew.edu.gh/vc/announcements/call-applications-vice-chancellors-scholarship-fund-20242025",
+    "amount": "Varies; typically covers tuition, accommodation, and living stipends",
+    "application_url": "https://uew.edu.gh/vc/announcements/call-applications-vice-chancellors-scholarship-fund-20242025"
+  },
+  {
+    "id": 28,
+    "scholarship_name": "University for Development Studies – Educational Pathways International (EPI) Scholarship",
+    "sponsor": "Educational Pathways International (EPI)",
+    "category": "NGO",
+    "level": "Undergraduate",
+    "description": "The EPI Scholarship supports brilliant but needy students at UDS, providing access to quality education for students from disadvantaged backgrounds.",
+    "application_deadline": "Varies annually; typically announced in July",
+    "eligibility_requirements": [
+      "Ghanaian citizen",
+      "Enrolled as an undergraduate student at UDS",
+      "Demonstrated academic excellence",
+      "Financial need"
+    ],
+    "benefits": [
+      "Full tuition coverage",
+      "Accommodation support",
+      "Living stipends"
+    ],
+    "application_process": [
+      "Complete the online application form on the UDS Scholarship Portal",
+      "Submit required documents, including academic transcripts and proof of financial need"
+    ],
+    "website_or_contact": "https://uds.edu.gh/",
+    "amount": "Varies; typically full tuition, accommodation, and stipends",
+    "application_url": "https://uds.edu.gh/"
+  },
+  {
+    "id": 29,
+    "scholarship_name": "Kwame Nkrumah University of Science and Technology (KNUST) – KNUST Alumni Scholarship",
+    "sponsor": "KNUST Alumni Association",
+    "category": "University/Alumni",
+    "level": "Undergraduate",
+    "description": "The KNUST Alumni Scholarship supports academically excellent but financially disadvantaged undergraduate students at KNUST. It aims to promote access to higher education and strengthen alumni engagement in student development.",
+    "application_deadline": "Annually, typically June 30",
+    "eligibility_requirements": [
+      "Ghanaian citizen",
+      "Enrolled full-time in an undergraduate program at KNUST",
+      "Demonstrated academic excellence (CGPA ≥ 3.5)",
+      "Financial need"
+    ],
+    "benefits": [
+      "Partial or full tuition coverage",
+      "Book allowance",
+      "Mentorship and networking opportunities"
+    ],
+    "application_process": [
+      "Submit a completed scholarship application form available on the KNUST Alumni portal",
+      "Provide academic transcripts, proof of enrollment, and financial need documentation",
+      "Submit letters of recommendation from lecturers or faculty advisors"
+    ],
+    "website_or_contact": "https://www.knust.edu.gh/alumni",
+    "amount": "Varies; typically covers tuition fees and book allowance",
+    "application_url": "https://www.knust.edu.gh/alumni"
+  },
+  {
+    "id": 30,
+    "scholarship_name": "Ashesi University – Ashesi Merit-Based Scholarship",
+    "sponsor": "Ashesi University",
+    "category": "University",
+    "level": "Undergraduate",
+    "description": "Ashesi Merit-Based Scholarships are designed to reward outstanding academic performance and leadership potential among students, reducing financial barriers for talented Ghanaian students.",
+    "application_deadline": "Rolling; priority applications by March 31",
+    "eligibility_requirements": [
+      "Ghanaian citizen",
+      "High school graduate with strong academic record",
+      "Demonstrated leadership and community involvement",
+      "Financial need considered"
+    ],
+    "benefits": [
+      "Full or partial tuition coverage",
+      "Access to campus housing",
+      "Mentorship and leadership programs"
+    ],
+    "application_process": [
+      "Complete Ashesi University online admission form",
+      "Submit required documents including academic transcripts, essays, and recommendation letters",
+      "Financial need assessment form submission"
+    ],
+    "website_or_contact": "https://www.ashesi.edu.gh/admissions/scholarships/",
+    "amount": "Varies; typically full tuition or partial tuition support",
+    "application_url": "https://www.ashesi.edu.gh/admissions/scholarships/"
+  },
+  {
+    "id": 31,
+    "scholarship_name": "Central University – Central University Academic Excellence Scholarship",
+    "sponsor": "Central University",
+    "category": "University",
+    "level": "Undergraduate",
+    "description": "The Academic Excellence Scholarship at Central University rewards students with outstanding academic performance and encourages leadership, innovation, and community engagement.",
+    "application_deadline": "Annually, typically July 15",
+    "eligibility_requirements": [
+      "Ghanaian citizen",
+      "Enrolled full-time at Central University",
+      "Minimum CGPA of 3.5",
+      "Active in extracurricular activities"
+    ],
+    "benefits": [
+      "Partial or full tuition coverage",
+      "Academic mentoring",
+      "Recognition at the university awards ceremony"
+    ],
+    "application_process": [
+      "Complete the online scholarship form via Central University's portal",
+      "Submit academic transcripts, recommendation letters, and personal essays",
+      "Shortlisted candidates may be interviewed by the scholarship committee"
+    ],
+    "website_or_contact": "https://www.central.edu.gh/admissions/scholarships/",
+    "amount": "Varies; typically covers tuition fees",
+    "application_url": "https://www.central.edu.gh/admissions/scholarships/"
+  },
+  {
+    "id": 32,
+    "scholarship_name": "Methodist University College Ghana – Chancellor's Scholarship Fund",
+    "sponsor": "Methodist University College Ghana",
+    "category": "University",
+    "level": "Undergraduate",
+    "description": "The Chancellor's Scholarship Fund at Methodist University College Ghana supports academically excellent students with financial need. It aims to encourage academic excellence and holistic student development.",
+    "application_deadline": "Annually, typically August 31",
+    "eligibility_requirements": [
+      "Ghanaian citizen",
+      "Full-time enrollment at Methodist University College Ghana",
+      "Demonstrated academic excellence",
+      "Financial need"
+    ],
+    "benefits": [
+      "Partial or full tuition coverage",
+      "Accommodation support",
+      "Mentorship opportunities"
+    ],
+    "application_process": [
+      "Submit the scholarship application form via the university portal",
+      "Attach academic transcripts, recommendation letters, and financial documents",
+      "Shortlisted candidates may be interviewed by the scholarship committee"
+    ],
+    "website_or_contact": "https://www.mucg.edu.gh/scholarships/",
+    "amount": "Varies; typically covers tuition and accommodation",
+    "application_url": "https://www.mucg.edu.gh/scholarships/"
+  },
+  {
+    "id": 33,
+    "scholarship_name": "Takoradi Technical University – TTU Merit-Based Scholarship",
+    "sponsor": "Takoradi Technical University",
+    "category": "University",
+    "level": "Undergraduate",
+    "description": "TTU Merit-Based Scholarships reward top-performing students at Takoradi Technical University, promoting academic excellence and encouraging innovation in technical and vocational education.",
+    "application_deadline": "Annually, typically June 15",
+    "eligibility_requirements": [
+      "Ghanaian citizen",
+      "Enrolled at TTU in an undergraduate program",
+      "Demonstrated academic excellence (minimum CGPA 3.5)",
+      "Financial need considered"
+    ],
+    "benefits": [
+      "Partial or full tuition coverage",
+      "Academic mentoring",
+      "Internship and industrial attachment opportunities"
+    ],
+    "application_process": [
+      "Obtain the scholarship application form from the TTU portal",
+      "Submit transcripts, recommendation letters, and personal statement",
+      "Selection based on academic performance and interviews"
+    ],
+    "website_or_contact": "https://www.ttu.edu.gh/scholarships",
+    "amount": "Varies; typically covers tuition and academic support",
+    "application_url": "https://www.ttu.edu.gh/scholarships"
+  },
+  {
+    "id": 34,
+    "scholarship_name": "Mastercard Foundation Scholars Program at KNUST",
+    "sponsor": "Mastercard Foundation in partnership with KNUST",
+    "category": "University",
+    "level": "Undergraduate",
+    "description": "The Mastercard Foundation Scholars Program at KNUST provides young Africans from economically disadvantaged communities with access to quality and relevant education. The program emphasizes leadership development, community engagement, and academic excellence.",
+    "application_deadline": "Annually, typically by May 30",
+    "eligibility_requirements": [
+      "Ghanaian citizen",
+      "Demonstrated financial need",
+      "Strong academic record",
+      "Commitment to community service"
+    ],
+    "benefits": [
+      "Full tuition coverage",
+      "Accommodation and living stipends",
+      "Laptop and health insurance",
+      "Leadership and career development programs"
+    ],
+    "application_process": [
+      "Submit an online application through the KNUST Mastercard Foundation Scholars Program portal",
+      "Provide academic transcripts, recommendation letters, and proof of financial need",
+      "Participate in interviews and selection processes"
+    ],
+    "website_or_contact": "https://mcf.knust.edu.gh/scholars-program/",
+    "amount": "Full scholarship covering tuition, accommodation, stipends, and other allowances",
+    "application_url": "https://mcf.knust.edu.gh/scholarship-application/"
+  },
+  {
+    "id": 35,
+    "scholarship_name": "Ashesi University Financial Aid and Scholarships",
+    "sponsor": "Ashesi University",
+    "category": "University",
+    "level": "Undergraduate",
+    "description": "Ashesi University offers financial aid and scholarships to students from economically disadvantaged backgrounds. The Ashesi Scholarship Fund provides partial or full scholarships covering tuition and housing costs.",
+    "application_deadline": "Rolling admissions; priority applications by March 31",
+    "eligibility_requirements": [
+      "Ghanaian citizen",
+      "Demonstrated financial need",
+      "Strong academic performance",
+      "Commitment to leadership and community service"
+    ],
+    "benefits": [
+      "Partial or full tuition coverage",
+      "Accommodation support",
+      "Access to leadership development programs"
+    ],
+    "application_process": [
+      "Complete the online application form available on the Ashesi University website",
+      "Submit required documents including academic transcripts, essays, and recommendation letters",
+      "Financial need assessment form submission"
+    ],
+    "website_or_contact": "https://ashesi.edu.gh/admissions/scholarships/",
+    "amount": "Varies; typically partial to full tuition and housing support",
+    "application_url": "https://ashesi.edu.gh/admissions/scholarships/"
+  },
+  {
+    "id": 36,
+    "scholarship_name": "Methodist University Ghana Endowment Fund Scholarships",
+    "sponsor": "Methodist University Ghana",
+    "category": "University",
+    "level": "Undergraduate",
+    "description": "The Endowment Fund at Methodist University Ghana supports the establishment of scholarships for students, including those from disadvantaged backgrounds and underserved areas. The fund aims to promote research and scholarship and position the university as a Centre of Excellence.",
+    "application_deadline": "Annually, typically by August 31",
+    "eligibility_requirements": [
+      "Ghanaian citizen",
+      "Enrolled full-time at Methodist University Ghana",
+      "Demonstrated financial need",
+      "Strong academic performance"
+    ],
+    "benefits": [
+      "Partial or full tuition coverage",
+      "Accommodation support",
+      "Access to research and scholarship opportunities"
+    ],
+    "application_process": [
+      "Submit the scholarship application form via the university portal",
+      "Attach academic transcripts, recommendation letters, and financial documents",
+      "Shortlisted candidates may be interviewed by the scholarship committee"
+    ],
+    "website_or_contact": "https://mug.edu.gh/endowment-fund/",
+    "amount": "Varies; typically covers tuition and accommodation",
+    "application_url": "https://mug.edu.gh/endowment-fund/"
+  },
+  {
+    "id": 37,
+    "scholarship_name": "Takoradi Technical University (TTU) Scholarships",
+    "sponsor": "Takoradi Technical University",
+    "category": "University",
+    "level": "Undergraduate",
+    "description": "Takoradi Technical University offers various scholarships to support students in their academic pursuits. These scholarships are aimed at promoting academic excellence and supporting students from disadvantaged backgrounds.",
+    "application_deadline": "Annually, typically by June 15",
+    "eligibility_requirements": [
+      "Ghanaian citizen",
+      "Enrolled full-time at Takoradi Technical University",
+      "Demonstrated academic excellence",
+      "Financial need considered"
+    ],
+    "benefits": [
+      "Partial or full tuition coverage",
+      "Accommodation support",
+      "Access to mentorship and career development programs"
+    ],
+    "application_process": [
+      "Obtain the scholarship application form from the TTU portal",
+      "Submit transcripts, recommendation letters, and personal statement",
+      "Selection based on academic performance and interviews"
+    ],
+    "website_or_contact": "https://www.ttu.edu.gh/scholarships",
+    "amount": "Varies; typically covers tuition and accommodation",
+    "application_url": "https://www.ttu.edu.gh/scholarships"
+  },
+  {
+    "id": 38,
+    "scholarship_name": "UG-Tullow Tertiary Scholarship",
+    "sponsor": "University of Ghana & Tullow Ghana Ltd",
+    "category": "University",
+    "level": "Undergraduate & Postgraduate",
+    "description": "The UG-Tullow Tertiary Scholarship provides full financial support to academically excellent but financially needy students pursuing undergraduate and postgraduate programs at the University of Ghana.",
+    "application_deadline": "Annually, typically by June 30",
+    "eligibility_requirements": [
+      "Ghanaian citizen",
+      "Enrolled full-time at the University of Ghana",
+      "Demonstrated financial need",
+      "Strong academic performance"
+    ],
+    "benefits": [
+      "Full tuition coverage",
+      "Accommodation and living stipends",
+      "Laptop and health insurance"
+    ],
+    "application_process": [
+      "Submit an online application through the University of Ghana portal",
+      "Provide academic transcripts, recommendation letters, and proof of financial need",
+      "Shortlisted candidates may be interviewed"
+    ],
+    "website_or_contact": "https://sports.ug.edu.gh/sites/default/files/documents/Final_TTSS%20CALL_20-21%20academic%20year%20%2B%20JF_a.pdf",
+    "amount": "Full scholarship covering tuition, accommodation, stipends, and other allowances",
+    "application_url": "https://sports.ug.edu.gh/sites/default/files/documents/Final_TTSS%20CALL_20-21%20academic%20year%20%2B%20JF_a.pdf"
+  },
+  {
+    "id": 39,
+    "scholarship_name": "Ideal Home Deco Empowering Futures Scholarship",
+    "sponsor": "Accra Technical University & Ideal Home Deco",
+    "category": "University",
+    "level": "Undergraduate",
+    "description": "The Ideal Home Deco Empowering Futures Scholarship is awarded to outstanding interior design students at Accra Technical University, aiming to promote creativity and innovation in the field.",
+    "application_deadline": "Annually, typically by February 28",
+    "eligibility_requirements": [
+      "Ghanaian citizen",
+      "Enrolled in the Interior Design program at Accra Technical University",
+      "Demonstrated exceptional design skills and creativity"
+    ],
+    "benefits": [
+      "Full tuition coverage",
+      "Accommodation support",
+      "Internship opportunities with Ideal Home Deco"
+    ],
+    "application_process": [
+      "Submit a portfolio of design works",
+      "Provide academic transcripts and recommendation letters",
+      "Attend an interview if shortlisted"
+    ],
+    "website_or_contact": "https://iddghana.org/ihds/",
+    "amount": "Full scholarship covering tuition and accommodation",
+    "application_url": "https://iddghana.org/ihds/"
+  },
+  {
+    "id": 40,
+    "scholarship_name": "German Academic Exchange Service (DAAD) Scholarship",
+    "sponsor": "German Academic Exchange Service (DAAD)",
+    "category": "International",
+    "level": "Postgraduate (MPhil & PhD)",
+    "description": "The DAAD Scholarship supports students pursuing MPhil and PhD programs in Economic Development Policy at the University for Development Studies, Tamale, Ghana.",
+    "application_deadline": "Annually, typically by May 31",
+    "eligibility_requirements": [
+      "Ghanaian citizen",
+      "Enrolled in MPhil or PhD programs at the University for Development Studies",
+      "Research focus on economic development policy"
+    ],
+    "benefits": [
+      "Full tuition coverage",
+      "Monthly stipend for living expenses",
+      "Travel allowance for research purposes"
+    ],
+    "application_process": [
+      "Submit an online application through the DAAD portal",
+      "Provide academic transcripts, research proposal, and recommendation letters",
+      "Shortlisted candidates may be interviewed"
+    ],
+    "website_or_contact": "https://www.uds.edu.gh/news/20252026-call-for-applications-for-admission-and-award-of-german-academic-exchange-service-scholarships-for-mphil-and-phd-economic-development-policy",
+    "amount": "Full scholarship covering tuition, stipend, and allowances",
+    "application_url": "https://www.uds.edu.gh/news/20252026-call-for-applications-for-admission-and-award-of-german-academic-exchange-service-scholarships-for-mphil-and-phd-economic-development-policy"
+  },
+  {
+    "id": 41,
+    "scholarship_name": "GCM TEF Scholarship",
+    "sponsor": "University of Mines and Technology (UMaT)",
+    "category": "University",
+    "level": "Undergraduate & Postgraduate",
+    "description": "The GCM TEF Scholarship is awarded to students at UMaT who demonstrate exceptional academic performance and are pursuing studies in mining and mineral resources.",
+    "application_deadline": "Annually, typically by July 15",
+    "eligibility_requirements": [
+      "Ghanaian citizen",
+      "Enrolled full-time at UMaT",
+      "Pursuing studies in mining or mineral resources",
+      "Demonstrated academic excellence"
+    ],
+    "benefits": [
+      "Partial or full tuition coverage",
+      "Research funding",
+      "Internship opportunities in the mining industry"
+    ],
+    "application_process": [
+      "Submit an online application through the UMaT portal",
+      "Provide academic transcripts, research proposal, and recommendation letters",
+      "Shortlisted candidates may be interviewed"
+    ],
+    "website_or_contact": "https://gcmtef.umat.edu.gh/",
+    "amount": "Partial or full scholarship covering tuition and research funding",
+    "application_url": "https://gcmtef.umat.edu.gh/"
+  },
+  {
+    "id": 42,
+    "scholarship_name": "SRC Yi Bi Boa Scholarship",
+    "sponsor": "University of Ghana Students' Representative Council (SRC)",
+    "category": "University",
+    "level": "Undergraduate",
+    "description": "The SRC Yi Bi Boa Scholarship provides financial support to needy but brilliant undergraduate students of the University of Ghana, aiming to promote academic excellence.",
+    "application_deadline": "Annually, typically by July 31",
+    "eligibility_requirements": [
+      "Ghanaian citizen",
+      "Enrolled full-time at the University of Ghana",
+      "Demonstrated financial need",
+      "Strong academic performance"
+    ],
+    "benefits": [
+      "Partial tuition coverage",
+      "Accommodation support",
+      "Access to mentorship and career development programs"
+    ],
+    "application_process": [
+      "Submit an online application through the University of Ghana portal",
+      "Provide academic transcripts, recommendation letters, and proof of financial need",
+      "Shortlisted candidates may be interviewed"
+    ],
+    "website_or_contact": "https://www.ug.edu.gh/financialaid/node/27",
+    "amount": "Partial scholarship covering tuition and accommodation",
+    "application_url": "https://www.ug.edu.gh/financialaid/node/27"
+  }
+]

@@ -1,0 +1,895 @@
+[
+  {
+    "id": 1,
+    "name": "University of Ghana",
+    "type": "Public",
+    "founded": 1948,
+    "location": "Accra, Greater Accra",
+    "description": "Ghana's premier university, established in 1948, offering world-class education and research opportunities across multiple disciplines.",
+    "contact": {
+      "address": "University of Ghana, Legon, Accra",
+      "phone": "+233 30 213 2440",
+      "email": "info@ug.edu.gh",
+      "website": "https://www.ug.edu.gh"
+    },
+    "rankings": {
+      "national_rank": 1
+    },
+    "statistics": {
+      "total_students": 38000,
+      "student_to_faculty_ratio": "15:1"
+    },
+    "admissions": {
+      "application_deadline": "2024-03-31"
+    },
+    "tuition_fees": {
+      "domestic_undergraduate": {
+        "min": 1500,
+        "max": 3000,
+        "currency": "GHS"
+      },
+      "international_undergraduate": {
+        "min": 3000,
+        "max": 6000,
+        "currency": "USD"
+      },
+      "accommodation": {
+        "min": 1000,
+        "max": 2500,
+        "currency": "GHS"
+      }
+    },
+    "facilities": [],
+    "programs": [
+      {
+        "id": 1,
+        "name": "BSc. Computer Science",
+        "cutoff_points": "7 (9)",
+        "requirements": "B3 in Elective Mathematics"
+      },
+      {
+        "id": 2,
+        "name": "BSc. Psychology",
+        "cutoff_points": "18",
+        "requirements": "Standard requirements"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Kwame Nkrumah University of Science and Technology",
+    "type": "Public",
+    "founded": 1952,
+    "location": "Kumasi, Ashanti",
+    "description": "Ghana's leading science and technology university, focused on engineering, technology, and applied sciences.",
+    "contact": {
+      "address": "KNUST, Kumasi",
+      "phone": "+233 32 206 0360",
+      "email": "info@knust.edu.gh",
+      "website": "https://www.knust.edu.gh"
+    },
+    "rankings": {
+      "national_rank": 2
+    },
+    "statistics": {
+      "total_students": 45000,
+      "student_to_faculty_ratio": "20:1"
+    },
+    "admissions": {
+      "application_deadline": "2024-04-15"
+    },
+    "tuition_fees": {
+      "domestic_undergraduate": {
+        "min": 1500,
+        "max": 3200,
+        "currency": "GHS"
+      },
+      "international_undergraduate": {
+        "min": 3500,
+        "max": 7000,
+        "currency": "USD"
+      },
+      "accommodation": {
+        "min": 1200,
+        "max": 2500,
+        "currency": "GHS"
+      }
+    },
+    "facilities": [],
+    "programs": [
+      {
+        "id": 3,
+        "name": "BSc. Mechanical Engineering",
+        "cutoff_points": "8",
+        "requirements": "B3 in Elective Mathematics"
+      },
+      {
+        "id": 4,
+        "name": "BSc. Electrical Engineering",
+        "cutoff_points": "8",
+        "requirements": "B3 in Physics"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "University of Cape Coast",
+    "type": "Public",
+    "founded": 1962,
+    "location": "Cape Coast, Central",
+    "description": "Renowned for teacher education and humanities programs with a strong focus on research and leadership.",
+    "contact": {
+      "address": "University of Cape Coast, Cape Coast",
+      "phone": "+233 33 213 2100",
+      "email": "registrar@ucc.edu.gh",
+      "website": "https://www.ucc.edu.gh"
+    },
+    "rankings": {
+      "national_rank": 3
+    },
+    "statistics": {
+      "total_students": 30000,
+      "student_to_faculty_ratio": "18:1"
+    },
+    "admissions": {
+      "application_deadline": "2024-05-01"
+    },
+    "tuition_fees": {
+      "domestic_undergraduate": {
+        "min": 1400,
+        "max": 2800,
+        "currency": "GHS"
+      },
+      "international_undergraduate": {
+        "min": 2800,
+        "max": 5500,
+        "currency": "USD"
+      },
+      "accommodation": {
+        "min": 900,
+        "max": 2200,
+        "currency": "GHS"
+      }
+    },
+    "facilities": [],
+    "programs": [
+      {
+        "id": 5,
+        "name": "B.Ed. Education",
+        "cutoff_points": "15",
+        "requirements": "Standard requirements"
+      },
+      {
+        "id": 6,
+        "name": "BSc. Mathematics",
+        "cutoff_points": "12",
+        "requirements": "B3 in Elective Mathematics"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "University for Development Studies",
+    "type": "Public",
+    "founded": 1992,
+    "location": "Tamale, Northern",
+    "description": "A university with a focus on practical and community-based education for rural development.",
+    "contact": {
+      "address": "Tamale, Northern Region",
+      "phone": "+233 37 209 6117",
+      "email": "info@uds.edu.gh",
+      "website": "https://www.uds.edu.gh"
+    },
+    "rankings": {
+      "national_rank": 4
+    },
+    "statistics": {
+      "total_students": 15000,
+      "student_to_faculty_ratio": "22:1"
+    },
+    "admissions": {
+      "application_deadline": "2024-04-20"
+    },
+    "tuition_fees": {
+      "domestic_undergraduate": {
+        "min": 1200,
+        "max": 2500,
+        "currency": "GHS"
+      },
+      "international_undergraduate": {
+        "min": 2500,
+        "max": 5000,
+        "currency": "USD"
+      },
+      "accommodation": {
+        "min": 800,
+        "max": 2000,
+        "currency": "GHS"
+      }
+    },
+    "facilities": [],
+    "programs": [
+      {
+        "id": 7,
+        "name": "BSc. Development Planning",
+        "cutoff_points": "18",
+        "requirements": "Standard requirements"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "University of Education, Winneba",
+    "type": "Public",
+    "founded": 1992,
+    "location": "Winneba, Central",
+    "description": "Specializes in teacher education and educational research, producing quality educators for Ghana and beyond.",
+    "contact": {
+      "address": "Winneba, Central Region",
+      "phone": "+233 33 232 2270",
+      "email": "info@uew.edu.gh",
+      "website": "https://www.uew.edu.gh"
+    },
+    "rankings": {
+      "national_rank": 5
+    },
+    "statistics": {
+      "total_students": 20000,
+      "student_to_faculty_ratio": "20:1"
+    },
+    "admissions": {
+      "application_deadline": "2024-05-10"
+    },
+    "tuition_fees": {
+      "domestic_undergraduate": {
+        "min": 1300,
+        "max": 2600,
+        "currency": "GHS"
+      },
+      "international_undergraduate": {
+        "min": 2600,
+        "max": 5200,
+        "currency": "USD"
+      },
+      "accommodation": {
+        "min": 850,
+        "max": 2000,
+        "currency": "GHS"
+      }
+    },
+    "facilities": [],
+    "programs": [
+      {
+        "id": 8,
+        "name": "B.Ed. Basic Education",
+        "cutoff_points": "16",
+        "requirements": "Standard requirements"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Ashesi University",
+    "type": "Private",
+    "founded": 2002,
+    "location": "Berekuso, Eastern",
+    "description": "A private liberal arts college focused on leadership, ethics, and entrepreneurship.",
+    "contact": {
+      "address": "1 University Avenue, Berekuso, Eastern Region",
+      "phone": "+233 30 261 0330",
+      "email": "admissions@ashesi.edu.gh",
+      "website": "https://www.ashesi.edu.gh"
+    },
+    "rankings": {
+      "national_rank": 6
+    },
+    "statistics": {
+      "total_students": 1300,
+      "student_to_faculty_ratio": "10:1"
+    },
+    "admissions": {
+      "application_deadline": "2024-06-01"
+    },
+    "tuition_fees": {
+      "domestic_undergraduate": {
+        "min": 12000,
+        "max": 16000,
+        "currency": "GHS"
+      },
+      "international_undergraduate": {
+        "min": 4000,
+        "max": 6000,
+        "currency": "USD"
+      },
+      "accommodation": {
+        "min": 4000,
+        "max": 6000,
+        "currency": "GHS"
+      }
+    },
+    "facilities": [],
+    "programs": [
+      {
+        "id": 9,
+        "name": "BSc. Computer Science",
+        "cutoff_points": "10",
+        "requirements": "Strong performance in Mathematics and Science"
+      },
+      {
+        "id": 10,
+        "name": "BSc. Business Administration",
+        "cutoff_points": "12",
+        "requirements": "Good grades in English and Mathematics"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Ghana Institute of Management and Public Administration",
+    "type": "Public",
+    "founded": 1961,
+    "location": "Accra, Greater Accra",
+    "description": "Specialized in leadership, management, and public administration education.",
+    "contact": {
+      "address": "Achimota, Accra",
+      "phone": "+233 30 240 1602",
+      "email": "info@gimpa.edu.gh",
+      "website": "https://www.gimpa.edu.gh"
+    },
+    "rankings": {
+      "national_rank": 7
+    },
+    "statistics": {
+      "total_students": 5000,
+      "student_to_faculty_ratio": "18:1"
+    },
+    "admissions": {
+      "application_deadline": "2024-04-30"
+    },
+    "tuition_fees": {
+      "domestic_undergraduate": {
+        "min": 4000,
+        "max": 7000,
+        "currency": "GHS"
+      },
+      "international_undergraduate": {
+        "min": 3500,
+        "max": 6000,
+        "currency": "USD"
+      },
+      "accommodation": {
+        "min": 2000,
+        "max": 4000,
+        "currency": "GHS"
+      }
+    },
+    "facilities": [],
+    "programs": [
+      {
+        "id": 11,
+        "name": "BSc. Public Administration",
+        "cutoff_points": "15",
+        "requirements": "English and Social Studies credits"
+      },
+      {
+        "id": 12,
+        "name": "BSc. Management",
+        "cutoff_points": "14",
+        "requirements": "Math and Economics credits"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "University of Mines and Technology",
+    "type": "Public",
+    "founded": 2004,
+    "location": "Tarkwa, Western",
+    "description": "A specialized public university focused on mining, petroleum, and related engineering disciplines.",
+    "contact": {
+      "address": "Tarkwa, Western Region",
+      "phone": "+233 31 232 2060",
+      "email": "info@umat.edu.gh",
+      "website": "https://www.umat.edu.gh"
+    },
+    "rankings": {
+      "national_rank": 8
+    },
+    "statistics": {
+      "total_students": 3000,
+      "student_to_faculty_ratio": "12:1"
+    },
+    "admissions": {
+      "application_deadline": "2024-05-15"
+    },
+    "tuition_fees": {
+      "domestic_undergraduate": {
+        "min": 2000,
+        "max": 3500,
+        "currency": "GHS"
+      },
+      "international_undergraduate": {
+        "min": 3500,
+        "max": 6000,
+        "currency": "USD"
+      },
+      "accommodation": {
+        "min": 1500,
+        "max": 2500,
+        "currency": "GHS"
+      }
+    },
+    "facilities": [],
+    "programs": [
+      {
+        "id": 13,
+        "name": "BSc. Mining Engineering",
+        "cutoff_points": "10",
+        "requirements": "Credit in Physics and Mathematics"
+      },
+      {
+        "id": 14,
+        "name": "BSc. Petroleum Engineering",
+        "cutoff_points": "9",
+        "requirements": "Credit in Chemistry and Physics"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "University of Professional Studies, Accra",
+    "type": "Public",
+    "founded": 1965,
+    "location": "Accra, Greater Accra",
+    "description": "Focused on business and professional studies, offering practical and theoretical programs.",
+    "contact": {
+      "address": "UPSA, Legon - Madina Road, Accra",
+      "phone": "+233 30 393 6700",
+      "email": "info@upsa.edu.gh",
+      "website": "https://www.upsa.edu.gh"
+    },
+    "rankings": {
+      "national_rank": 9
+    },
+    "statistics": {
+      "total_students": 16000,
+      "student_to_faculty_ratio": "20:1"
+    },
+    "admissions": {
+      "application_deadline": "2024-06-10"
+    },
+    "tuition_fees": {
+      "domestic_undergraduate": {
+        "min": 3000,
+        "max": 5000,
+        "currency": "GHS"
+      },
+      "international_undergraduate": {
+        "min": 2500,
+        "max": 5000,
+        "currency": "USD"
+      },
+      "accommodation": {
+        "min": 1500,
+        "max": 3000,
+        "currency": "GHS"
+      }
+    },
+    "facilities": [],
+    "programs": [
+      {
+        "id": 15,
+        "name": "BSc. Accounting",
+        "cutoff_points": "13",
+        "requirements": "Credit in Business Mathematics"
+      },
+      {
+        "id": 16,
+        "name": "BSc. Banking and Finance",
+        "cutoff_points": "14",
+        "requirements": "Credit in Economics"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Central University",
+    "type": "Private",
+    "founded": 1998,
+    "location": "Miotso, Greater Accra",
+    "description": "A Christian private university offering a wide range of undergraduate and postgraduate programs.",
+    "contact": {
+      "address": "Miotso, Greater Accra",
+      "phone": "+233 30 293 7070",
+      "email": "admissions@central.edu.gh",
+      "website": "https://www.central.edu.gh"
+    },
+    "rankings": {
+      "national_rank": 10
+    },
+    "statistics": {
+      "total_students": 8000,
+      "student_to_faculty_ratio": "18:1"
+    },
+    "admissions": {
+      "application_deadline": "2024-05-30"
+    },
+    "tuition_fees": {
+      "domestic_undergraduate": {
+        "min": 4000,
+        "max": 6000,
+        "currency": "GHS"
+      },
+      "international_undergraduate": {
+        "min": 2500,
+        "max": 5000,
+        "currency": "USD"
+      },
+      "accommodation": {
+        "min": 2000,
+        "max": 3500,
+        "currency": "GHS"
+      }
+    },
+    "facilities": [],
+    "programs": [
+      {
+        "id": 17,
+        "name": "BSc. Marketing",
+        "cutoff_points": "15",
+        "requirements": "Credit in Business and English"
+      },
+      {
+        "id": 18,
+        "name": "BSc. Human Resource Management",
+        "cutoff_points": "14",
+        "requirements": "Credit in Social Studies"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Valley View University",
+    "type": "Private",
+    "founded": 1979,
+    "location": "Oyibi, Greater Accra",
+    "description": "Valley View University is a private Christian university that offers undergraduate and postgraduate programs with a strong emphasis on values and ethics.",
+
+    "contact": {
+      "address": "Oyibi, Accra",
+      "phone": "+233 30 705 1848",
+      "email": "info@vvu.edu.gh",
+      "website": "https://www.vvu.edu.gh"
+    },
+
+    "rankings": {
+      "national_rank": 11
+    },
+
+    "statistics": {
+      "total_students": 7000,
+      "student_to_faculty_ratio": "18:1"
+    },
+
+    "admissions": {
+      "application_deadline": "2024-07-15"
+    },
+
+    "tuition_fees": {
+      "domestic_undergraduate": {
+        "min": 1800,
+        "max": 3500,
+        "currency": "GHS"
+      },
+      "international_undergraduate": {
+        "min": 2800,
+        "max": 5000,
+        "currency": "USD"
+      },
+      "accommodation": {
+        "min": 800,
+        "max": 2000,
+        "currency": "GHS"
+      }
+    },
+
+    "facilities": [],
+
+    "programs": [
+      {
+        "id": 31,
+        "name": "BSc. Nursing",
+        "cutoff_points": "14",
+        "requirements": "Credits in Biology and Chemistry"
+      },
+      {
+        "id": 32,
+        "name": "BBA Accounting",
+        "cutoff_points": "16",
+        "requirements": "Credits in Elective Mathematics"
+      },
+      {
+        "id": 33,
+        "name": "BSc. Development Studies",
+        "cutoff_points": "18",
+        "requirements": "Standard requirements"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Presbyterian University College",
+    "type": "Private",
+    "founded": 2003,
+    "location": "Abetifi, Eastern Region",
+    "description": "A Christian private university promoting academic excellence and moral integrity through faith-based learning.",
+
+    "contact": {
+      "address": "Abetifi, Kwahu",
+      "phone": "+233 34 209 1074",
+      "email": "info@presbyuniversity.edu.gh",
+      "website": "https://www.presbyuniversity.edu.gh"
+    },
+
+    "rankings": {
+      "national_rank": 12
+    },
+
+    "statistics": {
+      "total_students": 4500,
+      "student_to_faculty_ratio": "16:1"
+    },
+
+    "admissions": {
+      "application_deadline": "2024-06-30"
+    },
+
+    "tuition_fees": {
+      "domestic_undergraduate": {
+        "min": 2000,
+        "max": 4000,
+        "currency": "GHS"
+      },
+      "international_undergraduate": {
+        "min": 3000,
+        "max": 5500,
+        "currency": "USD"
+      },
+      "accommodation": {
+        "min": 1000,
+        "max": 2200,
+        "currency": "GHS"
+      }
+    },
+
+    "facilities": [],
+
+    "programs": [
+      {
+        "id": 34,
+        "name": "BSc. Environmental Science",
+        "cutoff_points": "15",
+        "requirements": "Credits in Chemistry and Biology"
+      },
+      {
+        "id": 35,
+        "name": "BSc. Information and Communication Technology",
+        "cutoff_points": "14",
+        "requirements": "Credits in Elective Mathematics"
+      },
+      {
+        "id": 36,
+        "name": "BSc. Nursing",
+        "cutoff_points": "17",
+        "requirements": "Credits in Biology"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Accra Institute of Technology (AIT)",
+    "type": "Private",
+    "founded": 2009,
+    "location": "Accra, Greater Accra",
+    "description": "AIT is a leading private university in Ghana, providing technology-driven education with innovative learning systems.",
+
+    "contact": {
+      "address": "Accra, Ghana",
+      "phone": "+233 30 279 7381",
+      "email": "info@ait.edu.gh",
+      "website": "https://www.ait.edu.gh"
+    },
+
+    "rankings": {
+      "national_rank": 13
+    },
+
+    "statistics": {
+      "total_students": 6000,
+      "student_to_faculty_ratio": "19:1"
+    },
+
+    "admissions": {
+      "application_deadline": "2024-07-10"
+    },
+
+    "tuition_fees": {
+      "domestic_undergraduate": {
+        "min": 2500,
+        "max": 4500,
+        "currency": "GHS"
+      },
+      "international_undergraduate": {
+        "min": 3500,
+        "max": 6000,
+        "currency": "USD"
+      },
+      "accommodation": {
+        "min": 1200,
+        "max": 2500,
+        "currency": "GHS"
+      }
+    },
+
+    "facilities": [],
+
+    "programs": [
+      {
+        "id": 37,
+        "name": "BSc. Information Technology",
+        "cutoff_points": "13",
+        "requirements": "Credits in Elective Mathematics"
+      },
+      {
+        "id": 38,
+        "name": "BSc. Computer Engineering",
+        "cutoff_points": "12",
+        "requirements": "Credits in Physics and Mathematics"
+      },
+      {
+        "id": 39,
+        "name": "BSc. Business Administration",
+        "cutoff_points": "17",
+        "requirements": "Credits in Elective Mathematics"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Ghana Baptist University College",
+    "type": "Private",
+    "founded": 2006,
+    "location": "Kumasi, Ashanti",
+    "description": "A private Christian institution committed to developing leaders grounded in faith and academic excellence.",
+
+    "contact": {
+      "address": "Kumasi, Ghana",
+      "phone": "+233 32 202 2345",
+      "email": "info@gbuc.edu.gh",
+      "website": "https://www.gbuc.edu.gh"
+    },
+
+    "rankings": {
+      "national_rank": 14
+    },
+
+    "statistics": {
+      "total_students": 2500,
+      "student_to_faculty_ratio": "14:1"
+    },
+
+    "admissions": {
+      "application_deadline": "2024-06-25"
+    },
+
+    "tuition_fees": {
+      "domestic_undergraduate": {
+        "min": 1800,
+        "max": 3000,
+        "currency": "GHS"
+      },
+      "international_undergraduate": {
+        "min": 2800,
+        "max": 5000,
+        "currency": "USD"
+      },
+      "accommodation": {
+        "min": 800,
+        "max": 1500,
+        "currency": "GHS"
+      }
+    },
+
+    "facilities": [],
+
+    "programs": [
+      {
+        "id": 40,
+        "name": "BBA Banking and Finance",
+        "cutoff_points": "17",
+        "requirements": "Credits in Elective Mathematics"
+      },
+      {
+        "id": 41,
+        "name": "BSc. Information Technology",
+        "cutoff_points": "16",
+        "requirements": "Credits in Elective Mathematics"
+      },
+      {
+        "id": 42,
+        "name": "BA Theology",
+        "cutoff_points": "18",
+        "requirements": "Standard requirements"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Wisconsin International University College",
+    "type": "Private",
+    "founded": 2000,
+    "location": "Accra, Greater Accra",
+    "description": "Wisconsin International University College is a globally oriented private institution offering undergraduate and postgraduate programs.",
+
+    "contact": {
+      "address": "North Legon, Accra",
+      "phone": "+233 30 396 6094",
+      "email": "info@wiuc-ghana.edu.gh",
+      "website": "https://www.wiuc-ghana.edu.gh"
+    },
+
+    "rankings": {
+      "national_rank": 15
+    },
+
+    "statistics": {
+      "total_students": 3500,
+      "student_to_faculty_ratio": "15:1"
+    },
+
+    "admissions": {
+      "application_deadline": "2024-07-20"
+    },
+
+    "tuition_fees": {
+      "domestic_undergraduate": {
+        "min": 2000,
+        "max": 4000,
+        "currency": "GHS"
+      },
+      "international_undergraduate": {
+        "min": 3500,
+        "max": 5500,
+        "currency": "USD"
+      },
+      "accommodation": {
+        "min": 1000,
+        "max": 2500,
+        "currency": "GHS"
+      }
+    },
+
+    "facilities": [],
+
+    "programs": [
+      {
+        "id": 43,
+        "name": "LLB Law",
+        "cutoff_points": "10",
+        "requirements": "Excellent grades in English and Social Studies"
+      },
+      {
+        "id": 44,
+        "name": "BSc. Information Technology",
+        "cutoff_points": "14",
+        "requirements": "Credits in Elective Mathematics"
+      },
+      {
+        "id": 45,
+        "name": "BA Communication Studies",
+        "cutoff_points": "15",
+        "requirements": "Standard requirements"
+      }
+    ]
+  }
+]
