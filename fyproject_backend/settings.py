@@ -5,8 +5,6 @@ from django.conf.urls.static import static
 import os
 import dj_database_url
 
-
-
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -82,11 +80,22 @@ WSGI_APPLICATION = "fyproject_backend.wsgi.application"
 
 # Database
 # https://docs.djangoproject.com/en/5.2/ref/settings/#databases
+# DATABASES = {
+#    'default': dj_database_url.config(
+#        default=os.environ.get("postgresql://fyproject_db_user:3aTccYHAERtUsCqNkuhrnITHosBQaurc@dpg-d34024juibrs73avqijg-a/fyproject_db")
+#    )
+#}
 DATABASES = {
-    'default': dj_database_url.config(
-        default=os.environ.get("postgresql://fyproject_db_user:3aTccYHAERtUsCqNkuhrnITHosBQaurc@dpg-d34024juibrs73avqijg-a/fyproject_db")
-    )
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': os.environ.get('PG_DB_NAME', 'fyproject_db'),
+        'USER': os.environ.get('PG_DB_USER', 'fyproject_db_user'),
+        'PASSWORD': os.environ.get('PG_DB_PASSWORD', '3aTccYHAERtUsCqNkuhrnITHosBQaurc'),
+        'HOST': os.environ.get('PG_DB_HOST', 'dpg-d34024juibrs73avqijg-a.oregon-postgres.render.com'),
+        'PORT': os.environ.get('PG_DB_PORT', '5432'),
+    },
 }
+
 
 
 # Password validation

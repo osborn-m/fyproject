@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Mathematics Past Questions 2022",
+    "category": "Past Questions",
+    "file": "media/resources/math_past_questions_2022.pdf"
+  },
+  {
+    "name": "University Application Tips",
+    "category": "Application",
+    "file": "media/resources/application_tips.pdf"
+  },
+  {
+    "name": "Academic Research Guidelines",
+    "category": "Academic",
+    "file": "media/resources/research_guidelines.docx"
+  },
+  {
+    "name": "Scholarship Application Guide",
+    "category": "Scholarship",
+    "file": "media/resources/scholarship_guide.docx"
+  }
+]

@@ -11,8 +11,7 @@ class Resource(models.Model):
 
     name = models.CharField(max_length=255)
     category = models.CharField(max_length=50, choices=CATEGORY_CHOICES)
-    file = models.FileField(upload_to="resources/")  # Files stored in MEDIA_ROOT/resources/
-
+    file = models.FileField(upload_to="resources/")  # Stored in MEDIA_ROOT/resources/
     uploaded_at = models.DateTimeField(auto_now_add=True)
 
     def __str__(self):
