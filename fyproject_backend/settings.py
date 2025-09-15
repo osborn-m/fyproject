@@ -30,8 +30,7 @@ SECRET_KEY = "django-insecure-$!ztlvjac88-ja1v6&2v!1v!b5&xw)3$*8i)@wh@3ba(ys%e2^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ["*"]
 
 # Application definition
 
@@ -93,12 +92,10 @@ WSGI_APPLICATION = "fyproject_backend.wsgi.application"
 
 # Database
 # https://docs.djangoproject.com/en/5.2/ref/settings/#databases
-
 DATABASES = {
-    "default": {
-        "ENGINE": "django.db.backends.sqlite3",
-        "NAME": BASE_DIR / "db.sqlite3",
-    }
+    'default': dj_database_url.config(
+        default=os.environ.get("postgresql://fyproject_db_user:3aTccYHAERtUsCqNkuhrnITHosBQaurc@dpg-d34024juibrs73avqijg-a/fyproject_db")
+    )
 }
 
 
