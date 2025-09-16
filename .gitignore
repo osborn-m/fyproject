@@ -32,3 +32,6 @@ __pycache__/
 *.db
 *.sqlite3
 .env
+
+resources/credentials/service_account.json
+credentials/
