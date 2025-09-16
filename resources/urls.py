@@ -1,10 +1,8 @@
-from django.urls import path, include
-from rest_framework.routers import DefaultRouter
-from .views import ResourceViewSet
+# resources/urls.py
 
-router = DefaultRouter()
-router.register(r'resources', ResourceViewSet)
+from django.urls import path
+from .views import google_drive_resources
 
 urlpatterns = [
-    path('', include(router.urls)),
+    path('', google_drive_resources, name='google_drive_resources'),
 ]
