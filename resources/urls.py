@@ -1,8 +1,6 @@
-# resources/urls.py
-
 from django.urls import path
-from .views import google_drive_resources
+from .views import ResourceListView
 
 urlpatterns = [
-    path('', google_drive_resources, name='google_drive_resources'),
+    path('', ResourceListView.as_view(), name='resource-list'),
 ]

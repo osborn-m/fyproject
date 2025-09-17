@@ -30,13 +30,15 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "rest_framework",
+    "rest_framework.authtoken",
     "corsheaders",
     "schools.apps.SchoolsConfig",
-    'universities',
-    'scholarships',
-    'accounts',
-    'rest_framework_simplejwt',
+    "universities",
+    "scholarships",
+    "accounts",
     "resources",
+    
+ 
 ]
 
 MIDDLEWARE = [
@@ -148,31 +150,23 @@ REST_FRAMEWORK = {
    # "PAGE_SIZE": 1,
 
     'DEFAULT_AUTHENTICATION_CLASSES': (
-        'rest_framework_simplejwt.authentication.JWTAuthentication',
+        'rest_framework.authentication.TokenAuthentication',
     ),
     'DEFAULT_PERMISSION_CLASSES': (
-        'rest_framework.permissions.AllowAny',
+        'rest_framework.permissions.IsAuthenticated',
     ),
     
 }
 
 
-AUTH_USER_MODEL = 'accounts.User'
+AUTH_USER_MODEL = "accounts.User"
 
 FRONTEND_URL = 'http://localhost:3000'  # change in production
 
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 DEFAULT_FROM_EMAIL = 'noreply@yourdomain.com'
 
-# Simple JWT settings
-SIMPLE_JWT = {
-    'ACCESS_TOKEN_LIFETIME': timedelta(minutes=60),
-    'REFRESH_TOKEN_LIFETIME': timedelta(days=7),
-    'AUTH_HEADER_TYPES': ('Bearer',),
-}
 
 
-MEDIA_URL = "/media/"
-MEDIA_ROOT = BASE_DIR / "media"
-
-
+MEDIA_URL = '/media/'
+MEDIA_ROOT = BASE_DIR / 'media'
