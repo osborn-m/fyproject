@@ -28,7 +28,7 @@ class School(models.Model):
     residency = models.CharField(
     max_length=20,
     choices=RESIDENCY_CHOICES,
-    default="boarding"
+    default="Boarding"
 )
     gender = models.CharField(max_length=10, choices=GENDER_CHOICES, blank=True, null=True)
     description = models.TextField(blank=True)
